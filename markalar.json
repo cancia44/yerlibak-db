@@ -1,6 +1,6 @@
 {
-  "veritabani_surumu": 2,
-  "surum_etiketi": "v1.1",
+  "veritabani_surumu": 3,
+  "surum_etiketi": "v1.2",
   "son_guncelleme": "25.11.2026",
   "guncelleme_tarihi": "25.11.2026",
   "markalar": [
@@ -2187,6 +2187,138 @@
       "aciklama": "Sharpie, merkezi Atlanta (ABD) olan çok uluslu Newell Brands Inc. şirketine ait kalıcı markör kalem markasıdır.",
       "populer": false,
       "alternatif_idler": ["pensan", "adel", "fatih_kalem"]
+    } ,
+    {
+      "id": "actavis",
+      "marka_adi": "Actavis",
+      "kategori": "Sağlık",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Teva Pharmaceutical Industries",
+      "mensei": "ABD / İsrail",
+      "barkodlar": [],
+      "aciklama": "Actavis, İsrail'in yanında yer alan ve her türlü tıbbi ile ilaç yardımını sağlayan Amerikan-İsrail ilaç şirketi Teva Pharmaceutical Industries bünyesinde yer alan jenerik ilaç markasıdır.",
+      "populer": false,
+      "alternatif_idler": ["humanis", "nobel", "klorhex"]
+    },
+    {
+      "id": "abbott",
+      "marka_adi": "Abbott",
+      "kategori": "Sağlık",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Abbott Laboratories",
+      "mensei": "ABD",
+      "barkodlar": ["0070074"],
+      "aciklama": "Abbott, İsrail merkezli Starlims Technologies'i (laboratuvar bilgi yönetim sistemleri lideri) satın aldı. Şirketin İsrail'deki faaliyetlerini genişlettiğini resmi açıklamalarda belirtmesi ve kurumsal ideolojik politikalarına verdiği destekten dolayı boykot listesinde yer almaktadır. Abbott Laboratories, 1888 yılında Dr. Wallace Calvin Abbott tarafından Chicago, ABD'de kurulmuştur. Şirket; tıbbi cihazlar, teşhis ekipmanları, markalı jenerik ilaçlar ve beslenme ürünleri (bebek maması dahil) geliştiren küresel bir sağlık devidir. Yaklaşık 160 ülkede faaliyet gösteren şirket, Abbott Park, Illinois merkezli olup; kardiyovasküler sağlık, diyabet bakımı ve çocuk beslenmesi alanlarında pazar liderleri arasındadır.",
+      "populer": true,
+      "alternatif_idler": ["hunnap", "nutraxin", "humanis"]
+    },
+    {
+      "id": "confy",
+      "marka_adi": "Confy",
+      "kategori": "Sağlık",
+      "durum": "YERLI",
+      "cati_sirket": "Lidersan Sağlık ve Gıda Ürünleri A.Ş. (Altunkaya Şirketler Grubu)",
+      "mensei": "Türkiye",
+      "barkodlar": ["8697423"],
+      "aciklama": "Confy markasının üreticisi olan Lidersan Sağlık, 2006 yılında yerli sermaye ile Altunkaya Şirketler Grubu tarafından kurulmuş Türkiye merkezli bir firmadır. Güncel olarak bebek bezi, yetişkin hasta bezi, hijyenik ped ve ıslak mendil gibi kişisel hijyen ve sağlık sektöründe faaliyet gösteren şirket, ürünlerini Gaziantep'teki tesislerinde üretmektedir.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "fatsecret",
+      "marka_adi": "FatSecret",
+      "kategori": "Sağlık",
+      "durum": "YERLI",
+      "cati_sirket": "Secret Industries Pty Ltd",
+      "mensei": "Avustralya",
+      "barkodlar": [],
+      "aciklama": "FatSecret, 2006 yılında Melbourne, Avustralya'da Rodney Moses ve Lenny Moses kardeşler tarafından kurulan bir dijital sağlık ve beslenme platformudur. Şirket, Secret Industries Pty Ltd bünyesinde faaliyet göstermekte olup, verilerini API hizmeti aracılığıyla Samsung Health ve Amazon gibi dev platformlarla da paylaşmaktadır. Boykot için yeterli sebep bulunamamıştır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "humanis",
+      "marka_adi": "Humanis",
+      "kategori": "Sağlık",
+      "durum": "YERLI",
+      "cati_sirket": "Humanis Sağlık A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": ["8680133"],
+      "aciklama": "Humanis Sağlık A.Ş., 2012 yılında Türkiye'de kurulan bir sağlık şirketidir. İstanbul merkezli olan bu firma, Tekirdağ'da üretim yapmaktadır ve 25 ülkeye ihracat gerçekleştirmektedir.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "hunnap",
+      "marka_adi": "Hünnap",
+      "kategori": "Sağlık",
+      "durum": "YERLI",
+      "cati_sirket": "Hünnap İlaç ve Kozmetik San. Tic. A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": ["8699237"],
+      "aciklama": "Markanın İTÖ ile herhangi bir sermaye ortaklığı, organik bağı veya bu yönde bir destek faaliyeti bulunmamaktadır. Hünnap, Türkiye merkezli Hünnap İlaç ve Kozmetik bünyesinde faaliyet göstermektedir. Şirket, yerli sermaye ile kurulmuş bir Türk firmasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "kiperin",
+      "marka_adi": "Kiperin",
+      "kategori": "Sağlık",
+      "durum": "YERLI",
+      "cati_sirket": "Kiperin İlaç Gıda Kozmetik San. ve Tic. Ltd. Şti.",
+      "mensei": "Türkiye",
+      "barkodlar": ["8682655"],
+      "aciklama": "Kiperin Türkiye, tamamen yerli bir marka olup üretim süreçlerinin tamamı Türkiyeli iş gücü ve yerli tesislerde gerçekleştirilmektedir. Marka, sağlık ve güzellik alanında katkı sağlamak amacıyla faaliyet göstermektedir ve hiçbir yabancı sermaye ile bağlantısı yoktur. Ayrıca, İntertek güvencesiyle tescillenmiş GMP (Good Manufacturing Practices) sertifikası ile ürünler yerli tesislerde üretilip Dünya'ya ihraç edilmektedir. Kiperin Türkiye markası boykot listesinde yer almayan ve güvenle tercih edilebilen yerli bir markadır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "klorhex",
+      "marka_adi": "Klorhex",
+      "kategori": "Sağlık",
+      "durum": "YERLI",
+      "cati_sirket": "Drogsan İlaçları San. ve Tic. A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": ["8699580"],
+      "aciklama": "Klorhex markası (genellikle gargara ve ağız spreyi olarak bilinen medikal ürün grubu), yerli sermayeli bir Türkiye ilaç firması olan Drogsan İlaçları San. ve Tic. A.Ş.'ye aittir. Firma, 1975 yılında Eczacı Nevzat Karpuzcu tarafından kurulmuş olup mülkiyeti ve yönetimi Karpuzcu ailesine aittir. Firmanın işgal altındaki Filistin'de herhangi bir özel şirketi, ofisi, üretim tesisi veya fabrikası bulunmamaktadır. Şirket üretimlerini tamamen Türkiye'deki kendi üretim tesislerinde gerçekleştirmektedir.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "nobel",
+      "marka_adi": "Nobel",
+      "kategori": "Sağlık",
+      "durum": "YERLI",
+      "cati_sirket": "Nobel İlaç Sanayii ve Ticaret A.Ş. (Ulkar Holding)",
+      "mensei": "Türkiye",
+      "barkodlar": ["8699540"],
+      "aciklama": "Faaliyet Alanı: İlaç üretimi ve sağlık ürünleri. Ülke: Türkiye. Kategori: İlaç ve sağlık. Nobel İlaç, Türkiye merkezli Ulkar Holding bünyesinde faaliyet gösteren yerli bir ilaç firmasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "nutraxin",
+      "marka_adi": "Nutraxin",
+      "kategori": "Sağlık",
+      "durum": "YERLI",
+      "cati_sirket": "Biota Bitkisel İlaç ve Kozmetik Laboratuvarları A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": ["8680512"],
+      "aciklama": "Nutraxin de tamamen yerli ve milli bir markadır. Sahibi olan Biota firması da Türkiyelidir. İsrail'e destek verdiklerine veya herhangi bir ticari bağları olduğuna dair hiçbir delil yok. Bu sebeple boykot listelerinde adı geçmeyen, gönül rahatlığıyla alabileceğin bir markadır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "zuhre_ana",
+      "marka_adi": "Zühre Ana",
+      "kategori": "Sağlık",
+      "durum": "YERLI",
+      "cati_sirket": "Zühre Ana Bitkisel Ürünler Kozmetik Gıda San. Tic. A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": ["8682166"],
+      "aciklama": "Zühre Ana, 2018 yılında Muharrem Kakı tarafından İstanbul'da kurulmuştur. Türkiye merkezli olan firma; bitkisel macunlar, takviye edici gıdalar, doğal kozmetik ve kişisel bakım ürünleri alanında faaliyet göstermektedir. Güncel olarak Türkiye'deki geniş bayi ağı ve online satış kanallarının yanı sıra, Avrupa ve Orta Doğu başta olmak üzere 12'den fazla ülkeye ihracat yaparak faaliyetlerini sürdürmektedir.",
+      "populer": false,
+      "alternatif_idler": []
     }
   ]
 }
