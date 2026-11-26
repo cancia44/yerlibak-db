@@ -1,7 +1,7 @@
 {
-  "veritabani_surumu": 5,
-  "surum_etiketi": "v1.4",
-  "son_guncelleme": "25.11.2026",
+  "veritabani_surumu": 6,
+  "surum_etiketi": "v1.5",
+  "son_guncelleme": "26.11.2026",
   "guncelleme_tarihi": "25.11.2026",
   "markalar": [
     {
@@ -4185,10 +4185,552 @@
       "durum": "YERLI",
       "cati_sirket": "Ser Dayanıklı Tüketim Malları A.Ş.",
       "mensei": "Türkiye",
-      "barkodlar": [],
+     {
+      "id": "altus",
+      "marka_adi": "Altus",
+      "kategori": "Beyaz Eşya",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Arçelik / Koç Holding A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8690842455773",
+        "8690842466779",
+        "8690842456589"
+      ],
+      "aciklama": "Altus, Arçelik'e aittir. Arçelik ise tamamen KOÇ Holding'e bağlıdır. İşte KOÇ Holding'in boykot edilmesinin sebepleri... Siyonist Örgüt İnine Ev Sahipliği: İTÖ'nün Türkiye'de konsolosluk bahanesi ile işgal ettiği terör üssünün ev sahibi KOÇ Holding'e bağlı Yapı Kredi Plaza'dır. KOÇ bu daireyi teröristlere kiraya vermiştir (https://share.google/K4VhJWgm0NZ47mXZ8). Nayax İş Birliği: Koç Holding'in bir iştiraki olan Düzey Pazarlama, 2023 yılında İTÖ'nün sözde ödeme sistemleri şirketi Nayax ile distribütörlük ve stratejik ortaklık anlaşması imzalamıştır. Her temassız işlemde kesilen komisyonun bir kısmı İsrail merkezli Nayax'a gitmektedir. Veri Güvenliği Zaafiyeti: Türkiye'deki kullanıcılarının harcama verileri İsrail merkezli sunucular üzerinden işlenmektedir. Ford Otosan Ortaklığı ve OPET - Starbucks iş birliği sebepleriyle Altus boykot listesinde yer almaktadır.",
+      "populer": false,
+      "alternatif_idler": ["vestel", "ugur", "simfer"]
+    },
+    {
+      "id": "arcelik",
+      "marka_adi": "Arçelik",
+      "kategori": "Beyaz Eşya",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Koç Holding A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8690842455629",
+        "8690842559662",
+        "8690842434976"
+      ],
+      "aciklama": "%40 ya da %41 oranında hakim hissedarı Koç Holding A.Ş. İşte KOÇ Holding'in boykot edilmesinin sebepleri... Siyonist Örgüt İnine Ev Sahipliği: Koç Holding'in mülkiyetinde bulunan yapılar, İstanbul ve Ankara'da (sözde) İsrail konsolosluklarına tahsis edilmektedir (https://share.google/K4VhJWgm0NZ47mXZ8). Nayax İş Birliği: Düzey Pazarlama'nın 2023 yılında Nayax ile imzaladığı distribütörlük anlaşması gereği her temassız işlemde kesilen komisyonun bir kısmı İsrail merkezli Nayax'a gitmektedir. Veri Güvenliği Zaafiyeti, Ford Otosan Ortaklığı ve OPET - Starbucks iş birliği sebepleriyle Arçelik boykot edilmektedir.",
+      "populer": false,
+      "alternatif_idler": ["vestel", "ugur", "simfer"]
+    },
+    {
+      "id": "beko",
+      "marka_adi": "Beko",
+      "kategori": "Beyaz Eşya",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Koç Holding A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8690842514531",
+        "6242235681942",
+        "7630910277"
+      ],
+      "aciklama": "KOÇ Holding'e aittir. İşte KOÇ Holding'in boykot edilmesinin sebepleri... Siyonist Örgüt İnine Ev Sahipliği: Koç Holding'in mülkiyetinde bulunan yapılar, İstanbul ve Ankara'da (sözde) İsrail konsolosluklarına tahsis edilmektedir (https://share.google/K4VhJWgm0NZ47mXZ8). Nayax İş Birliği: Düzey Pazarlama'nın Nayax ile kurduğu distribütörlük anlaşması nedeniyle temassız işlem komisyonlarının bir kısmı İsrail merkezli Nayax'a aktarılmaktadır. Veri Güvenliği Zaafiyeti, Ford Otosan Ortaklığı ve OPET - Starbucks iş birliği sebepleriyle Beko boykot edilmektedir.",
+      "populer": false,
+      "alternatif_idler": ["vestel", "ugur", "simfer"]
+    },
+    {
+      "id": "blomberg",
+      "marka_adi": "Blomberg",
+      "kategori": "Beyaz Eşya",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Arçelik / Koç Holding A.Ş.",
+      "mensei": "Almanya / Türkiye",
+      "barkodlar": [
+        "8690842471926",
+        "7161548800"
+      ],
+      "aciklama": "Blomberg, Koç Holding'in bir iştiraki olan Arçelik A.Ş. tarafından Türkiye'de üretilip satılmaktadır. %40 ya da %41 oranında hakim hissedarı Koç Holding A.Ş. Siyonist Örgüt İnine Ev Sahipliği (https://share.google/K4VhJWgm0NZ47mXZ8), Nayax İş Birliği, Veri Güvenliği Zaafiyeti, Ford Otosan Ortaklığı ve OPET - Starbucks iş birliği sebepleriyle Blomberg boykot edilmektedir.",
+      "populer": false,
+      "alternatif_idler": ["vestel", "ugur", "simfer"]
+    },
+    {
+      "id": "bosch",
+      "marka_adi": "Bosch",
+      "kategori": "Beyaz Eşya",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Robert Bosch GmbH",
+      "mensei": "Almanya",
+      "barkodlar": [
+        "424200",
+        "3165140"
+      ],
+      "aciklama": "Constructa, BSH'ye aittir. BSH de tamamen Bosch'a aittir. Bosch 2016'da işgal altındaki Tel Aviv'de kurduğu Ar-Ge merkezi ile yapay zeka, bilgisayarla görme, siber güvenlik, otonom sistemler ve robotik alanlarında işgalcilerle bilgi ve ürün alışverişini sürdürüyor. Ayrıca Bosch, Almanya'da İsrailli militanlara toplu destek açıklayan 106 şirketten biridir. 1886 yılında Stuttgart'ta kurulan Alman mühendislik ve teknoloji şirketidir.",
+      "populer": false,
+      "alternatif_idler": ["vestel", "ugur", "simfer"]
+    },
+    {
+      "id": "vestel",
+      "marka_adi": "Vestel",
+      "kategori": "Beyaz Eşya",
+      "durum": "YERLI",
+      "cati_sirket": "Zorlu Holding",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "20265299",
+        "20275682",
+        "20267453",
+        "20310072"
+      ],
+      "aciklama": "Son dönemde yürütülen boykot kampanyaları kapsamında Vestel'in durumu yeniden değerlendirilmiştir. Vestel, kamuoyunun ve boykot hareketlerinin tepkisini çeken İsrail merkezli ortaklığını sonlandırdığını duyurmuş olup güncel listelerde uygun statüsünde yer almaktadır. 1984 yılında başlayan faaliyetlerini 1994 yılından beri Zorlu Holding bünyesinde sürdüren, üretim tesisleri Manisa Vestel City'de bulunan yerli teknoloji ve beyaz eşya şirketidir.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "ugur",
+      "marka_adi": "Uğur",
+      "kategori": "Beyaz Eşya",
+      "durum": "YERLI",
+      "cati_sirket": "Uğur Soğutma A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "1700000861524",
+        "151121000000"
+      ],
+      "aciklama": "1954 yılında Aydın'ın Nazilli ilçesinde kurulan ve soğutma sektöründe geniş bir ürün yelpazesine sahip olan Uğur Soğutma A.Ş.'ye ait yerli ve bağımsız Türk markasıdır. Boykot kapsamında değildir ve uygundur.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "simfer",
+      "marka_adi": "Simfer",
+      "kategori": "Beyaz Eşya",
+      "durum": "YERLI",
+      "cati_sirket": "Ser Dayanıklı Tüketim Malları A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8699272859267",
+        "8699272854392",
+        "8699272859083"
+      ],
       "aciklama": "1977 yılında Kayseri'de kurulan, özellikle pişirici, soğutucu ve mutfak ekipmanları alanında yerli üretim yapan bağımsız Türk markasıdır. Boykot kapsamında değildir ve uygundur.",
       "populer": false,
       "alternatif_idler": []
+    },
+    {
+      "id": "aptamil",
+      "marka_adi": "Aptamil",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Groupe Danone",
+      "mensei": "Fransa",
+      "barkodlar": [
+        "8699745020460",
+        "8699745030308",
+        "8699745030346",
+        "8699745020521",
+        "8699745030315"
+      ],
+      "aciklama": "Danone'nin İsrailli gıda şirketi Strauss Group'un süt ürünleri iştirakinde %20 hisseye sahip olması ve 2023 yılında İsrailli süt ürünleri girişimi Wilk'e 3,5 milyon dolar yatırım yapması nedeniyle boykot edilmektedir. 2007'den bu yana Danone şirketler grubunun bir parçasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "babyganics",
+      "marka_adi": "Babyganics",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "S. C. Johnson & Son",
+      "mensei": "ABD",
+      "barkodlar": [
+        "813277013853",
+        "0813277013853",
+        "813277010036",
+        "813277010685",
+        "813277012429",
+        "813277012108"
+      ],
+      "aciklama": "S. C. Johnson & Son şirketine aittir. Şirketin S.C. Johnson Israel Ltd. iştiraki ve yerel ortaklıkları üzerinden bölgedeki ticari operasyonlarını sürdürmesi nedeniyle boykot edilmektedir. SC Johnson bebek ürünleri markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "beba",
+      "marka_adi": "Beba",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Nestlé S.A.",
+      "mensei": "İsviçre",
+      "barkodlar": [
+        "7613036350693",
+        "7613036350730",
+        "7613036350778",
+        "7613035036512"
+      ],
+      "aciklama": "Nestlé firmasına aittir. Nestlé'nin İsrail'in en büyük gıda üreticilerinden Osem Investments'ın sahibi olması ve Sderot'ta Ar-Ge merkezi işletmesi nedeniyle boykot edilmektedir. Nestlé bebek gıdası markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "bebe_jj",
+      "marka_adi": "Bebe",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Johnson & Johnson",
+      "mensei": "ABD",
+      "barkodlar": [
+        "357466",
+        "315525",
+        "304109"
+      ],
+      "aciklama": "Johnson & Johnson'a bağlıdır. Johnson & Johnson Innovation'ın İsrail'deki Weizmann Bilim Parkı yakınlarında biyoteknoloji merkezi kurmak üzere yaptığı iş birliği nedeniyle boykot edilmektedir. Johnson & Johnson bebek ürünleri markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "cerelac",
+      "marka_adi": "Cerelac",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Nestlé S.A.",
+      "mensei": "İsviçre",
+      "barkodlar": [
+        "7616100005079",
+        "7616100756865",
+        "6260418700518",
+        "5410001025622",
+        "8410100099095"
+      ],
+      "aciklama": "Nestlé firmasına aittir. Nestlé'nin Osem Investments sahipliği ve Sderot'taki Ar-Ge merkezi faaliyetleri nedeniyle boykot edilmektedir. Nestlé bebek gıdası markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "danino",
+      "marka_adi": "Danino",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Groupe Danone",
+      "mensei": "Fransa",
+      "barkodlar": [
+        "8696368200835",
+        "8696368200590",
+        "8696368200842",
+        "8696368200613",
+        "8696368200736",
+        "8696368201498",
+        "8696368905464"
+      ],
+      "aciklama": "Danone'nin Strauss Group'taki %20 ortaklığı ve Wilk yatırımından dolayı boykot edilmektedir. Danone'nin çocuklara yönelik meyveli taze peynir ve süt ürünü markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "desitin",
+      "marka_adi": "Desitin",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Johnson & Johnson (Kenvue)",
+      "mensei": "ABD",
+      "barkodlar": [
+        "3574661460307",
+        "3574661460352",
+        "3574661212531",
+        "074300000701",
+        "0074300000701",
+        "074300000718",
+        "074300003016",
+        "0074300003016"
+      ],
+      "aciklama": "Johnson & Johnson (Kenvue) bünyesinde yer alması ve ana şirketin İsrail teknoloji ekosistemindeki yatırımları nedeniyle boykot listesinde yer almaktadır. Bebek pişik kremi markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "doona",
+      "marka_adi": "Doona",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Simple Parenting Company",
+      "mensei": "İsrail",
+      "barkodlar": [
+        "4895231706427",
+        "4897055668103",
+        "4895231709985",
+        "4897055668219",
+        "4897055666772",
+        "4897055667045"
+      ],
+      "aciklama": "2011 yılında Yoav Mazar tarafından kurulan İsrail merkezli Simple Parenting Company bünyesindeki bebek oto koltuğu ve bebek arabası markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "enfagrow",
+      "marka_adi": "Enfagrow",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Reckitt Benckiser",
+      "mensei": "ABD / İngiltere",
+      "barkodlar": [
+        "300875116784",
+        "0300875116784",
+        "300875117521",
+        "0300875117521",
+        "300875114148",
+        "0300875114148",
+        "300871461420",
+        "0300871461420",
+        "300871409057",
+        "0300871409057",
+        "056796006078",
+        "0056796006078"
+      ],
+      "aciklama": "Kasım 2018'de İsrail İnovasyon Otoritesi ile sağlık anlaşması imzalayan ve bölgede ticari operasyonlarını sürdüren Reckitt Benckiser'e ait olduğu için boykot edilmektedir. Reckitt bebek gıdası ve devam sütü markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "gerber",
+      "marka_adi": "Gerber",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Nestlé S.A.",
+      "mensei": "ABD / İsviçre",
+      "barkodlar": [
+        "015000045210",
+        "0015000045210",
+        "015000045296",
+        "0015000045296",
+        "015000045289",
+        "0015000045289",
+        "015000070007",
+        "0015000070007",
+        "015000070014",
+        "0015000070014",
+        "015000006341",
+        "0015000006341"
+      ],
+      "aciklama": "Nestlé firmasına aittir. Nestlé'nin Osem Investments sahipliği ve İsrail'deki Ar-Ge faaliyetleri nedeniyle boykot edilmektedir. Bebekler için beslenme ve atıştırmalık markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "huggies",
+      "marka_adi": "Huggies",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Kimberly-Clark Corporation",
+      "mensei": "ABD",
+      "barkodlar": [
+        "5029053538426",
+        "036000183399",
+        "0036000183399",
+        "036000497380",
+        "0036000497380",
+        "036000556629",
+        "036000318036",
+        "0036000318036"
+      ],
+      "aciklama": "Kimberly-Clark Corporation'ın kurumsal hissedar yapısı (Vanguard Group, BlackRock, State Street) ve İsrail pazarındaki ticari varlığı nedeniyle boykot listelerinde yer almaktadır. Bebek bezi ve ıslak mendil markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "lactamil",
+      "marka_adi": "Lactamil",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Groupe Danone",
+      "mensei": "Fransa",
+      "barkodlar": [
+        "8699745011673",
+        "8699745012533",
+        "8699745023560"
+      ],
+      "aciklama": "Danone'nin Strauss Group ortaklığı ve İsrailli süt ürünleri girişimi Wilk'e yaptığı yatırım nedeniyle boykot edilmektedir. Emzirme ve gebelik dönemi takviyeleri markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "prima",
+      "marka_adi": "Prima",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Procter & Gamble (P&G)",
+      "mensei": "ABD",
+      "barkodlar": [
+        "8001841129495",
+        "8700216094696",
+        "8700216094528",
+        "8001841741710",
+        "8001841130057",
+        "8001841130095"
+      ],
+      "aciklama": "P&G'nin Tel Aviv Ar-Ge merkezine yıllık 2 milyar dolar kaynak aktarması, İsrail İnovasyon Otoritesi anlaşması ve Batı Şeria Barkan Endüstri Bölgesi'ndeki Avgol şirketinden bebek bezi tedarik etmesi nedeniyle boykot edilmektedir. Pampers Procter & Gamble şirketinin bebek bezi markasıdır; Türkiye'de Prima ismi ile pazarlanmaktadır.",
+      "populer": false,
+      "alternatif_idler": ["molfix", "sleepy", "baby_go"]
+    },
+    {
+      "id": "pampers",
+      "marka_adi": "Pampers",
+      "kategori": "Bebek Ürünleri",
+      "durum": "BOYCOTT",
+      "cati_sirket": "Procter & Gamble (P&G)",
+      "mensei": "ABD",
+      "barkodlar": [
+        "037000733904",
+        "0037000733904",
+        "037000865049",
+        "0037000865049",
+        "037000765509",
+        "0037000765509",
+        "8700216094696",
+        "8001841130057"
+      ],
+      "aciklama": "P&G'nin Tel Aviv Ar-Ge merkezine aktardığı kaynaklar, İsrail İnovasyon Otoritesi iş birliği ve Barkan Endüstri Bölgesi'ndeki Avgol tedariki nedeniyle boykot edilmektedir. Procter & Gamble şirketinin küresel bebek bezi markasıdır.",
+      "populer": false,
+      "alternatif_idler": ["molfix", "sleepy", "baby_go"]
+    },
+    {
+      "id": "ari_mama",
+      "marka_adi": "Arı Mama",
+      "kategori": "Bebek Ürünleri",
+      "durum": "YERLI",
+      "cati_sirket": "Sultanlar Holding",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8696540001014",
+        "8696540185028",
+        "8696540185011",
+        "8696540190015",
+        "8696540185035",
+        "8696540185103"
+      ],
+      "aciklama": "Türkiye'nin ilk yerli bebek maması markası olarak tanıtılmaktadır ve yerli üretim yapmaktadır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "arilac",
+      "marka_adi": "Arılac",
+      "kategori": "Bebek Ürünleri",
+      "durum": "YERLI",
+      "cati_sirket": "Sultanlar Holding",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8696540186179",
+        "8696540186193",
+        "8696540186209",
+        "8696540186223"
+      ],
+      "aciklama": "Yerli firma olan Sultanlar Holding'in markasıdır. Bebek maması ve temizlik malzemeleri üzerine Türkiye'de üretim yapmaktadır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "sleepy",
+      "marka_adi": "Sleepy",
+      "kategori": "Bebek Ürünleri",
+      "durum": "YERLI",
+      "cati_sirket": "Eruslu Sağlık Ürünleri",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8682241215188",
+        "8682241224173",
+        "8682241212279",
+        "8682241215232",
+        "8682241208333",
+        "8681212063520",
+        "8681212061922"
+      ],
+      "aciklama": "Sleepy Eruslu şirketi tarafından 2004 yılında M. A. Eruslu tarafından kurulmuştur. Temizlik ve kişisel bakım ürünleri üretmektedir. Yerli bir markadır ve boykota dahil değildir.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "hero_baby",
+      "marka_adi": "Hero Baby",
+      "kategori": "Bebek Ürünleri",
+      "durum": "YERLI",
+      "cati_sirket": "Hero Group",
+      "mensei": "İsviçre",
+      "barkodlar": [
+        "8690504559801",
+        "8681080596625",
+        "8681080599145",
+        "8681080597820",
+        "8681080599183",
+        "8690504556428",
+        "8690504556121",
+        "8681080598414"
+      ],
+      "aciklama": "2014 yılında Hero Group, Ülker'in elindeki tüm hisseleri satın alarak Türkiye'deki operasyonun tek sahibi olmuştur. Bu tarihten itibaren ürünler sadece 'Hero Baby' markasıyla satılmaya başlanmıştır. Boykot değildir.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "cici_bebe",
+      "marka_adi": "Cici Bebe",
+      "kategori": "Bebek Ürünleri",
+      "durum": "YERLI",
+      "cati_sirket": "Eti Gıda Sanayi ve Ticaret A.Ş.",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8690533091136",
+        "8690533271132",
+        "8690533091655",
+        "8690533081137",
+        "8690526051130",
+        "8690526031132"
+      ],
+      "aciklama": "1961 yılında Eskişehir'de kurulan tamamı yerli sermayeli bağımsız Türk şirketi Eti Gıda bünyesindedir. Boykot kapsamında değildir ve uygundur.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "baby_one",
+      "marka_adi": "Baby One",
+      "kategori": "Bebek Ürünleri",
+      "durum": "YERLI",
+      "cati_sirket": "Evyap",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8683881000417",
+        "8690506524388",
+        "8690506528041"
+      ],
+      "aciklama": "Bebek hijyen ürünleri markasıdır. Türkiye'de üretilmiş, Türk menşeili bir grubun markasıdır. Mehmet Rıfat Evyap'ın kurduğu, yerli bir firmadır.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "baby_goat",
+      "marka_adi": "Baby Goat",
+      "kategori": "Bebek Ürünleri",
+      "durum": "YERLI",
+      "cati_sirket": "Baby Goat Gıda",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8680972007607",
+        "8680972007614",
+        "8680972007621"
+      ],
+      "aciklama": "BABY GOAT Türkiye'nin ilk ve tek keçi sütü bazlı bebek sütü markası. Tübitak desteklidir.",
+      "populer": false,
+      "alternatif_idler": []
+    },
+    {
+      "id": "baby_go",
+      "marka_adi": "Baby Go",
+      "kategori": "Bebek Ürünleri",
+      "durum": "YERLI",
+      "cati_sirket": "Hayat Holding",
+      "mensei": "Türkiye",
+      "barkodlar": [
+        "8682429264427",
+        "8682429234550",
+        "8682429257054",
+        "8682429258013"
+      ],
+      "aciklama": "Yerli bir holding olan Hayat Grup'un bebek hijyen markasıdır.",
+      "populer": false,
+      "alternatif_idler": []
+    }
     }
   ]
 }
