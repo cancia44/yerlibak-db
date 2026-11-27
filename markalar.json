@@ -60,7 +60,7 @@
       "cati_sirket": "Lipton Teas and Infusions (CVC Capital Partners) / PepsiCo",
       "mensei": "Hollanda / İngiltere",
       "barkodlar": ["8690637010019", "8711327355804"],
-      "aciklama": "Lipton çay markası uzun yıllar Unilever çatısı altında faaliyet göstermiş, 2022 yılında CVC Capital Partners fonuna devredilmiştir. Soğuk çay (Lipton Ice Tea) segmenti ise Unilever ve PepsiCo ortak girişimi üzerinden yönetilmektedir.",
+      "aclama": "Lipton çay markası uzun yıllar Unilever çatısı altında faaliyet göstermiş, 2022 yılında CVC Capital Partners fonuna devredilmiştir. Soğuk çay (Lipton Ice Tea) segmenti ise Unilever ve PepsiCo ortak girişimi üzerinden yönetilmektedir.",
       "populer": true,
       "alternatif_idler": ["caykur", "dogus_cay"]
     },
@@ -1728,7 +1728,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87109089", "87125614"],
-      "aclama": "Clear, Unilever PLC tarafından sahiplenilen kepek karşıtı şampuan markasıdır.",
+      "aciklama": "Clear, Unilever PLC tarafından sahiplenilen kepek karşıtı şampuan markasıdır.",
       "populer": false,
       "alternatif_idler": ["otaci", "hobby", "eyup_sabri_tuncer"]
     },
@@ -2100,7 +2100,7 @@
       "cati_sirket": "Scrikss Maden ve Kırtasiye Sanayi A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690780", "8690780010018"],
-      "aciklama": "1964 yılından bu yana Türkiye merkezli olarak dolma kalem, mekanik kurşun kalem ve ofis yazı gereçleri üreten yerli kuruluştur.",
+      "aclama": "1964 yılından bu yana Türkiye merkezli olarak dolma kalem, mekanik kurşun kalem ve ofis yazı gereçleri üreten yerli kuruluştur.",
       "populer": false,
       "alternatif_idler": []
     },
