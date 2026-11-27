@@ -60,7 +60,7 @@
       "cati_sirket": "Lipton Teas and Infusions (CVC Capital Partners) / PepsiCo",
       "mensei": "Hollanda / İngiltere",
       "barkodlar": ["8690637010019", "8711327355804"],
-      "aclama": "Lipton çay markası uzun yıllar Unilever çatısı altında faaliyet göstermiş, 2022 yılında CVC Capital Partners fonuna devredilmiştir. Soğuk çay (Lipton Ice Tea) segmenti ise Unilever ve PepsiCo ortak girişimi üzerinden yönetilmektedir.",
+      "aciklama": "Lipton çay markası uzun yıllar Unilever çatısı altında faaliyet göstermiş, 2022 yılında CVC Capital Partners fonuna devredilmiştir. Soğuk çay (Lipton Ice Tea) segmenti ise Unilever ve PepsiCo ortak girişimi üzerinden yönetilmektedir.",
       "populer": true,
       "alternatif_idler": ["caykur", "dogus_cay"]
     },
