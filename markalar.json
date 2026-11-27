@@ -1,6 +1,6 @@
 {
-  "veritabani_surumu": 2,
-  "surum_etiketi": "v1.1",
+  "veritabani_surumu": 3,
+  "surum_etiketi": "v1.2",
   "son_guncelleme": "27.11.2026",
   "guncelleme_tarihi": "27.11.2026",
   "markalar": [
@@ -48,7 +48,7 @@
       "cati_sirket": "The Coca-Cola Company",
       "mensei": "ABD",
       "barkodlar": ["5449000014535", "8690632012018"],
-      "aclama": "Sprite, The Coca-Cola Company (ABD) bünyesinde bulunan limon ve misket limonu aromalı gazlı içecek markasıdır.",
+      "aciklama": "Sprite, The Coca-Cola Company (ABD) bünyesinde bulunan limon ve misket limonu aromalı gazlı içecek markasıdır.",
       "populer": false,
       "alternatif_idler": ["uludag", "nigde_gazozu", "kizilay"]
     },
@@ -60,7 +60,7 @@
       "cati_sirket": "Lipton Teas and Infusions (CVC Capital Partners) / PepsiCo",
       "mensei": "Hollanda / İngiltere",
       "barkodlar": ["8690637010019", "8711327355804"],
-      "aclama": "Lipton çay markası uzun yıllar Unilever çatısı altında faaliyet göstermiş, 2022 yılında CVC Capital Partners fonuna devredilmiştir. Soğuk çay (Lipton Ice Tea) segmenti ise Unilever ve PepsiCo ortak girişimi üzerinden yönetilmektedir.",
+      "aciklama": "Lipton çay markası uzun yıllar Unilever çatısı altında faaliyet göstermiş, 2022 yılında CVC Capital Partners fonuna devredilmiştir. Soğuk çay (Lipton Ice Tea) segmenti ise Unilever ve PepsiCo ortak girişimi üzerinden yönetilmektedir.",
       "populer": true,
       "alternatif_idler": ["caykur", "dogus_cay"]
     },
@@ -72,7 +72,7 @@
       "cati_sirket": "Nestlé S.A.",
       "mensei": "İsviçre",
       "barkodlar": ["8690632030012", "7613035037847"],
-      "aclama": "Nescafé, merkezi Vevey (İsviçre) olan çok uluslu gıda devi Nestlé S.A.'nın hazır kahve markasıdır. Çatı şirketin uluslararası ortaklıkları ve ticari yatırımları nedeniyle tüketici boykot listelerinde listelenmektedir.",
+      "aciklama": "Nescafé, merkezi Vevey (İsviçre) olan çok uluslu gıda devi Nestlé S.A.'nın hazır kahve markasıdır. Çatı şirketin uluslararası ortaklıkları ve ticari yatırımları nedeniyle tüketici boykot listelerinde listelenmektedir.",
       "populer": true,
       "alternatif_idler": ["kahve_dunyasi", "caykur", "dogus_cay"]
     },
@@ -84,7 +84,7 @@
       "cati_sirket": "Nestlé S.A.",
       "mensei": "İsviçre",
       "barkodlar": ["8690632040011", "7613034626844"],
-      "aclama": "Nestlé S.A., merkezi İsviçre'de bulunan dünyanın en büyük halka açık çok uluslu gıda ve içecek şirketlerinden biridir. Çeşitli uluslararası tüketici inisiyatiflerinin boykot rehberlerinde yer almaktadır.",
+      "aciklama": "Nestlé S.A., merkezi İsviçre'de bulunan dünyanın en büyük halka açık çok uluslu gıda ve içecek şirketlerinden biridir. Çeşitli uluslararası tüketici inisiyatiflerinin boykot rehberlerinde yer almaktadır.",
       "populer": true,
       "alternatif_idler": ["torku", "eti", "ulker"]
     },
@@ -96,7 +96,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["8690637020018", "8711327501010"],
-      "aclama": "Algida, Londra (İngiltere) merkezli çok uluslu tüketim malları şirketi Unilever PLC'nin küresel dondurma grubu markalarından biridir.",
+      "aciklama": "Algida, Londra (İngiltere) merkezli çok uluslu tüketim malları şirketi Unilever PLC'nin küresel dondurma grubu markalarından biridir.",
       "populer": false,
       "alternatif_idler": ["sutas", "pinar", "torku"]
     },
@@ -108,7 +108,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["8690637021015", "8711327440128"],
-      "aclama": "Magnum, Unilever PLC bünyesinde yer alan küresel dondurma markasıdır. Çatı şirket Unilever'in uluslararası ticari faaliyetleri nedeniyle boykot listelerinde yer almaktadır.",
+      "aciklama": "Magnum, Unilever PLC bünyesinde yer alan küresel dondurma markasıdır. Çatı şirket Unilever'in uluslararası ticari faaliyetleri nedeniyle boykot listelerinde yer almaktadır.",
       "populer": false,
       "alternatif_idler": ["torku", "eti", "ulker"]
     },
@@ -120,7 +120,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Almanya",
       "barkodlar": ["8690637030017", "8712100856013"],
-      "aclama": "Knorr, hazır çorba, bulyon ve sos kategorilerinde faaliyet gösteren ve marka hakları Unilever PLC'ye ait olan çok uluslu gıda markasıdır.",
+      "aciklama": "Knorr, hazır çorba, bulyon ve sos kategorilerinde faaliyet gösteren ve marka hakları Unilever PLC'ye ait olan çok uluslu gıda markasıdır.",
       "populer": false,
       "alternatif_idler": ["tat_gida", "torku", "pinar"]
     },
@@ -132,7 +132,7 @@
       "cati_sirket": "Procter & Gamble (P&G)",
       "mensei": "ABD",
       "barkodlar": ["8001090205018", "8690572010013"],
-      "aclama": "Ariel, merkezi Cincinnati (ABD) olan çok uluslu tüketim ürünleri şirketi Procter & Gamble (P&G) bünyesindeki çamaşır deterjanı markasıdır.",
+      "aciklama": "Ariel, merkezi Cincinnati (ABD) olan çok uluslu tüketim ürünleri şirketi Procter & Gamble (P&G) bünyesindeki çamaşır deterjanı markasıdır.",
       "populer": true,
       "alternatif_idler": ["bingo", "abc_deterjan", "peros"]
     },
@@ -144,7 +144,7 @@
       "cati_sirket": "Henkel AG & Co. KGaA",
       "mensei": "Almanya",
       "barkodlar": ["8690573010012", "4015000965019"],
-      "aclama": "Persil (Türkiye pazarı dahil birçok ülkede), merkezi Düsseldorf (Almanya) olan çok uluslu kimya ve tüketim ürünleri grubu Henkel AG bünyesinde yer almaktadır.",
+      "aciklama": "Persil (Türkiye pazarı dahil birçok ülkede), merkezi Düsseldorf (Almanya) olan çok uluslu kimya ve tüketim ürünleri grubu Henkel AG bünyesinde yer almaktadır.",
       "populer": false,
       "alternatif_idler": ["bingo", "abc_deterjan", "peros"]
     },
@@ -156,7 +156,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["8690637040016", "8710447281017"],
-      "aclama": "Omo, İngiltere merkezli çok uluslu şirket Unilever PLC'ye ait çamaşır temizlik ve bakım markasıdır.",
+      "aciklama": "Omo, İngiltere merkezli çok uluslu şirket Unilever PLC'ye ait çamaşır temizlik ve bakım markasıdır.",
       "populer": false,
       "alternatif_idler": ["bingo", "abc_deterjan", "peros"]
     },
@@ -168,7 +168,7 @@
       "cati_sirket": "Procter & Gamble (P&G)",
       "mensei": "ABD",
       "barkodlar": ["8001841289014", "8690572020012"],
-      "aclama": "Fairy, ABD merkezli Procter & Gamble (P&G) şirketinin bulaşık deterjanı ve tablet kategorisindeki küresel markasıdır.",
+      "aciklama": "Fairy, ABD merkezli Procter & Gamble (P&G) şirketinin bulaşık deterjanı ve tablet kategorisindeki küresel markasıdır.",
       "populer": true,
       "alternatif_idler": ["bingo", "peros", "boron"]
     },
@@ -180,7 +180,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["8690637050015", "8710908321016"],
-      "aclama": "Domestos, ev ve yüzey temizliği alanında faaliyet gösteren ve çok uluslu Unilever PLC grubuna ait olan markadır.",
+      "aciklama": "Domestos, ev ve yüzey temizliği alanında faaliyet gösteren ve çok uluslu Unilever PLC grubuna ait olan markadır.",
       "populer": false,
       "alternatif_idler": ["bingo", "asperox", "porcoz"]
     },
@@ -192,7 +192,7 @@
       "cati_sirket": "Procter & Gamble (P&G)",
       "mensei": "ABD",
       "barkodlar": ["8001090321015", "8690572030011"],
-      "aclama": "Head & Shoulders, ABD merkezli Procter & Gamble (P&G) bünyesindeki küresel saç bakım ve şampuan markasıdır.",
+      "aciklama": "Head & Shoulders, ABD merkezli Procter & Gamble (P&G) bünyesindeki küresel saç bakım ve şampuan markasıdır.",
       "populer": false,
       "alternatif_idler": ["otaci", "hobby", "eyup_sabri_tuncer"]
     },
@@ -204,7 +204,7 @@
       "cati_sirket": "Procter & Gamble (P&G)",
       "mensei": "ABD",
       "barkodlar": ["8001090452016", "8690572040010"],
-      "aclama": "Pantene, İsviçre'de doğmuş olup marka hakları ABD merkezli Procter & Gamble (P&G) şirketine ait olan saç bakım markasıdır.",
+      "aciklama": "Pantene, İsviçre'de doğmuş olup marka hakları ABD merkezli Procter & Gamble (P&G) şirketine ait olan saç bakım markasıdır.",
       "populer": false,
       "alternatif_idler": ["otaci", "hobby", "eyup_sabri_tuncer"]
     },
@@ -216,7 +216,7 @@
       "cati_sirket": "Colgate-Palmolive Company",
       "mensei": "ABD",
       "barkodlar": ["8718951256019", "8690574010011"],
-      "aclama": "Colgate, merkezi New York (ABD) olan çok uluslu Colgate-Palmolive Company tarafından sahiplenilen ağız ve diş sağlığı ürünleri markasıdır.",
+      "aciklama": "Colgate, merkezi New York (ABD) olan çok uluslu Colgate-Palmolive Company tarafından sahiplenilen ağız ve diş sağlığı ürünleri markasıdır.",
       "populer": true,
       "alternatif_idler": ["eyup_sabri_tuncer", "evyap", "duru"]
     },
@@ -228,7 +228,7 @@
       "cati_sirket": "Inditex Group (Industria de Diseño Textil, S.A.)",
       "mensei": "İspanya",
       "barkodlar": ["8434567890012", "0215408700015"],
-      "aclama": "Zara, merkezi Arteixo (İspanya) olan çok uluslu hazır giyim perakende grubu Inditex bünyesindeki amiral gemisi markadır.",
+      "aciklama": "Zara, merkezi Arteixo (İspanya) olan çok uluslu hazır giyim perakende grubu Inditex bünyesindeki amiral gemisi markadır.",
       "populer": false,
       "alternatif_idler": ["lc_waikiki", "koton", "mavi"]
     },
@@ -240,7 +240,7 @@
       "cati_sirket": "Puma SE",
       "mensei": "Almanya",
       "barkodlar": ["4065452819010", "4051412345678"],
-      "aclama": "Puma, merkezi Herzogenaurach (Almanya) olan çok uluslu spor giyim ve ayakkabı üreticisi Puma SE markasıdır. Uluslararası sponsorluk ve ticari anlaşmaları nedeniyle tüketici boykot listelerinde yer almıştır.",
+      "aciklama": "Puma, merkezi Herzogenaurach (Almanya) olan çok uluslu spor giyim ve ayakkabı üreticisi Puma SE markasıdır. Uluslararası sponsorluk ve ticari anlaşmaları nedeniyle tüketici boykot listelerinde yer almıştır.",
       "populer": false,
       "alternatif_idler": ["lescon", "flo_kinetix", "lc_waikiki"]
     },
@@ -252,7 +252,7 @@
       "cati_sirket": "Erbak-Uludağ İçecek A.Ş.",
       "mensei": "Türkiye (Bursa)",
       "barkodlar": ["8690555", "8690555010016", "8690555020015"],
-      "aclama": "1912 yılına uzanan geçmişiyle Bursa merkezli yerli aile şirketi Erbak-Uludağ İçecek A.Ş. tarafından üretilen Türkiye'nin köklü maden suyu, gazoz ve meşrubat markasıdır.",
+      "aciklama": "1912 yılına uzanan geçmişiyle Bursa merkezli yerli aile şirketi Erbak-Uludağ İçecek A.Ş. tarafından üretilen Türkiye'nin köklü maden suyu, gazoz ve meşrubat markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -264,7 +264,7 @@
       "cati_sirket": "Kızılay İçecek Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Afyonkarahisar / Erzincan)",
       "barkodlar": ["8690544", "8690544010010", "8690544020019"],
-      "aclama": "Türk Kızılay iştiraki olan Kızılay İçecek A.Ş. tarafından Afyonkarahisar ve Erzincan tesislerinde şişelenen yerli doğal maden suyu ve meyveli içecek markasıdır.",
+      "aciklama": "Türk Kızılay iştiraki olan Kızılay İçecek A.Ş. tarafından Afyonkarahisar ve Erzincan tesislerinde şişelenen yerli doğal maden suyu ve meyveli içecek markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -276,7 +276,7 @@
       "cati_sirket": "Niğde Gazozu A.Ş.",
       "mensei": "Türkiye (Niğde)",
       "barkodlar": ["8690876", "8690876010011", "8690876020010"],
-      "aclama": "1962 yılında Niğde'de kurulan ve tamamı yerli sermaye ile yönetilen bağımsız Türk gazoz ve meşrubat üreticisidir.",
+      "aciklama": "1962 yılında Niğde'de kurulan ve tamamı yerli sermaye ile yönetilen bağımsız Türk gazoz ve meşrubat üreticisidir.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -288,7 +288,7 @@
       "cati_sirket": "Çay İşletmeleri Genel Müdürlüğü",
       "mensei": "Türkiye (Rize)",
       "barkodlar": ["8690105", "8690105000015", "8690105000114"],
-      "aclama": "Merkezi Rize'de bulunan, Doğu Karadeniz çay üreticilerinin ürünlerini işleyen Türkiye Cumhuriyeti kamu iktisadi teşekkülü ve yerli çay markasıdır.",
+      "aciklama": "Merkezi Rize'de bulunan, Doğu Karadeniz çay üreticilerinin ürünlerini işleyen Türkiye Cumhuriyeti kamu iktisadi teşekkülü ve yerli çay markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -300,7 +300,7 @@
       "cati_sirket": "Doğuş Çay ve Gıda Maddeleri Üretim Pazarlama A.Ş.",
       "mensei": "Türkiye (Rize / İstanbul)",
       "barkodlar": ["8690719", "8690719000014", "8690719001011"],
-      "aclama": "1985 yılında Rize'de kurulan ve tamamen yerli aile sermayesi ile çay, şeker ve gıda üretimi gerçekleştiren bağımsız Türk firmasıdır.",
+      "aciklama": "1985 yılında Rize'de kurulan ve tamamen yerli aile sermayesi ile çay, şeker ve gıda üretimi gerçekleştiren bağımsız Türk firmasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -312,7 +312,7 @@
       "cati_sirket": "Konya Şeker Sanayi ve Ticaret A.Ş. (Anadolu Birlik Holding)",
       "mensei": "Türkiye (Konya)",
       "barkodlar": ["8690120", "8690120000018", "8690120010017"],
-      "aclama": "Konya Pancar Ekicileri Kooperatifi iştiraki olan Konya Şeker bünyesinde kurulan, doğrudan yerli çiftçi ve kooperatif ortaklığına dayanan Türkiye merkezli gıda markasıdır.",
+      "aciklama": "Konya Pancar Ekicileri Kooperatifi iştiraki olan Konya Şeker bünyesinde kurulan, doğrudan yerli çiftçi ve kooperatif ortaklığına dayanan Türkiye merkezli gıda markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -324,7 +324,7 @@
       "cati_sirket": "Eti Gıda Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Eskişehir)",
       "barkodlar": ["8690526", "8690526010014", "8690526020013"],
-      "aclama": "1961 yılında Firuz Kanatlı tarafından Eskişehir'de kurulan, bisküvi, çikolata ve unlu mamuller alanında üretim yapan yerli ve bağımsız Türk gıda şirketidir.",
+      "aciklama": "1961 yılında Firuz Kanatlı tarafından Eskişehir'de kurulan, bisküvi, çikolata ve unlu mamuller alanında üretim yapan yerli ve bağımsız Türk gıda şirketidir.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -336,7 +336,7 @@
       "cati_sirket": "Yıldız Holding A.Ş. (Pladis / Ülker Bisküvi A.Ş.)",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690504", "8690504010012", "8690504020011"],
-      "aclama": "1944 yılında İstanbul'da kurulan, ana hissedarı Türkiye merkezli Yıldız Holding olan ve Borsa İstanbul'da işlem gören köklü yerli gıda ve atıştırmalık markasıdır.",
+      "aciklama": "1944 yılında İstanbul'da kurulan, ana hissedarı Türkiye merkezli Yıldız Holding olan ve Borsa İstanbul'da işlem gören köklü yerli gıda ve atıştırmalık markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -348,7 +348,7 @@
       "cati_sirket": "Sütaş Süt Ürünleri A.Ş.",
       "mensei": "Türkiye (Bursa - Karacabey)",
       "barkodlar": ["8690565", "8690565010013", "8690565020012"],
-      "aclama": "1975 yılında Bursa Karacabey'de kurulan, tamamı yerli sermaye ile süt ve süt ürünleri üreten Türkiye merkezli bağımsız gıda kuruluşudur.",
+      "aciklama": "1975 yılında Bursa Karacabey'de kurulan, tamamı yerli sermaye ile süt ve süt ürünleri üreten Türkiye merkezli bağımsız gıda kuruluşudur.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -360,7 +360,7 @@
       "cati_sirket": "Yaşar Holding A.Ş.",
       "mensei": "Türkiye (İzmir)",
       "barkodlar": ["8690570", "8690570010015", "8690570020014"],
-      "aclama": "1973 yılında İzmir'de Yaşar Holding bünyesinde kurulan, süt, et ve su ürünlerinde faaliyet gösteren Türkiye merkezli yerli gıda markasıdır.",
+      "aciklama": "1973 yılında İzmir'de Yaşar Holding bünyesinde kurulan, süt, et ve su ürünlerinde faaliyet gösteren Türkiye merkezli yerli gıda markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -372,7 +372,7 @@
       "cati_sirket": "Hayat Kimya Sanayi A.Ş.",
       "mensei": "Türkiye (Kocaeli / İstanbul)",
       "barkodlar": ["86905368", "8690536810017", "8690536820016"],
-      "aclama": "Tamamı yerli sermayeli Hayat Holding iştiraki Hayat Kimya tarafından Kocaeli tesislerinde üretilen yerli ev bakım ve deterjan markasıdır.",
+      "aciklama": "Tamamı yerli sermayeli Hayat Holding iştiraki Hayat Kimya tarafından Kocaeli tesislerinde üretilen yerli ev bakım ve deterjan markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -384,7 +384,7 @@
       "cati_sirket": "Hayat Holding A.Ş.",
       "mensei": "Türkiye (İstanbul / Kocaeli)",
       "barkodlar": ["86905360", "8690536010011", "8690536020010"],
-      "aclama": "1937'de temelleri atılan Hayat Holding bünyesinde temizlik, hijyen ve kağıt ürünleri (Bingo, Papia, Familia, Molfix) üreten Türkiye merkezli yerli sanayi kuruluşudur.",
+      "aciklama": "1937'de temelleri atılan Hayat Holding bünyesinde temizlik, hijyen ve kağıt ürünleri (Bingo, Papia, Familia, Molfix) üreten Türkiye merkezli yerli sanayi kuruluşudur.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -396,7 +396,7 @@
       "cati_sirket": "Evyap Sabun Yağ Gliserin Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul / Tuzla)",
       "barkodlar": ["86905060", "8690506010010", "8690506020019"],
-      "aclama": "1927 yılında Erzurum'da temelleri atılan yerli Evyap grubu tarafından üretilen sabun, duş jeli ve kişisel bakım markasıdır.",
+      "aciklama": "1927 yılında Erzurum'da temelleri atılan yerli Evyap grubu tarafından üretilen sabun, duş jeli ve kişisel bakım markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -408,7 +408,7 @@
       "cati_sirket": "Evyap Holding A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["86905064", "8690506410018", "8690506420017"],
-      "aclama": "Tamamı Türk aile sermayesi ile yönetilen, Duru, Arko ve Fax gibi markaları bünyesinde barındıran köklü kişisel bakım ve hijyen üreticisidir.",
+      "aciklama": "Tamamı Türk aile sermayesi ile yönetilen, Duru, Arko ve Fax gibi markaları bünyesinde barındıran köklü kişisel bakım ve hijyen üreticisidir.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -420,7 +420,7 @@
       "cati_sirket": "Eyüp Sabri Tuncer Kozmetik Sanayi A.Ş.",
       "mensei": "Türkiye (Ankara)",
       "barkodlar": ["8691685", "8691685010016", "8691685020015"],
-      "aclama": "1923 yılında Ankara'da kurulan, kolonya, doğal kişisel bakım, şampuan ve diş macunu ürünleri üreten %100 yerli sermayeli Türk kozmetik firmasıdır.",
+      "aciklama": "1923 yılında Ankara'da kurulan, kolonya, doğal kişisel bakım, şampuan ve diş macunu ürünleri üreten %100 yerli sermayeli Türk kozmetik firmasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -432,7 +432,7 @@
       "cati_sirket": "LC Waikiki Mağazacılık Hizmetleri Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8681234", "8681234010011", "8681234020010"],
-      "aclama": "1997 yılından bu yana tamamı Türk ortaklık (Taha Grubu) sahipliğinde İstanbul merkezli olarak faaliyet gösteren yerli hazır giyim ve perakende markasıdır.",
+      "aciklama": "1997 yılından bu yana tamamı Türk ortaklık (Taha Grubu) sahipliğinde İstanbul merkezli olarak faaliyet gösteren yerli hazır giyim ve perakende markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -444,7 +444,7 @@
       "cati_sirket": "Koton Mağazacılık Tekstil Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8681456", "8681456010015", "8681456020014"],
-      "aclama": "1988 yılında İstanbul'da kurulan, Borsa İstanbul'da halka açık olan Türkiye merkezli hazır giyim ve aksesuar markasıdır.",
+      "aciklama": "1988 yılında İstanbul'da kurulan, Borsa İstanbul'da halka açık olan Türkiye merkezli hazır giyim ve aksesuar markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -456,7 +456,7 @@
       "cati_sirket": "Lescon Spor Malzemeleri A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8681678", "8681678010019", "8681678020018"],
-      "aclama": "1992 yılında Türkiye'de kurulan, yerli sermaye ile spor ayakkabı ve aktif spor giyim tasarımı ve üretimi yapan Türk spor markasıdır.",
+      "aciklama": "1992 yılında Türkiye'de kurulan, yerli sermaye ile spor ayakkabı ve aktif spor giyim tasarımı ve üretimi yapan Türk spor markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -468,7 +468,7 @@
       "cati_sirket": "Adel Kalemcilik / Anadolu Grubu",
       "mensei": "Türkiye",
       "barkodlar": ["8681124115357", "8681124", "8690624"],
-      "aclama": "Adel Kalemcilik, Türkiye merkezli Anadolu Grubu ve Faber-Castell ortaklığıyla Kocaeli tesislerinde üretim yapan yerli kırtasiye kuruluşudur.",
+      "aciklama": "Adel Kalemcilik, Türkiye merkezli Anadolu Grubu ve Faber-Castell ortaklığıyla Kocaeli tesislerinde üretim yapan yerli kırtasiye kuruluşudur.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -480,7 +480,7 @@
       "cati_sirket": "Société Bic",
       "mensei": "Fransa",
       "barkodlar": ["3086120"],
-      "aclama": "Société Bic, Fransa merkezli çok uluslu kırtasiye ve kişisel bakım ürünleri üreticisidir. Tüketici boykot listelerinde yer almaktadır.",
+      "aciklama": "Société Bic, Fransa merkezli çok uluslu kırtasiye ve kişisel bakım ürünleri üreticisidir. Tüketici boykot listelerinde yer almaktadır.",
       "populer": true,
       "alternatif_idler": ["adel", "pensan", "scrikss"]
     },
@@ -492,7 +492,7 @@
       "cati_sirket": "Opet Petrolcülük A.Ş. (Koç Holding / Öztürk Grubu)",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690900", "8690900010012"],
-      "aclama": "1992 yılında Öztürk Grubu tarafından kurulan ve Koç Holding ortaklığıyla yönetilen Türkiye merkezli yerli akaryakıt dağıtım ve madeni yağ kuruluşudur.",
+      "aciklama": "1992 yılında Öztürk Grubu tarafından kurulan ve Koç Holding ortaklığıyla yönetilen Türkiye merkezli yerli akaryakıt dağıtım ve madeni yağ kuruluşudur.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -504,7 +504,7 @@
       "cati_sirket": "Opet Petrolcülük A.Ş. (Koç Holding)",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690901", "8690901010019"],
-      "aclama": "Opet ve Koç Holding güvencesiyle Türkiye genelinde akaryakıt ve enerji istasyonu hizmeti sunan yerli dağıtım markasıdır.",
+      "aciklama": "Opet ve Koç Holding güvencesiyle Türkiye genelinde akaryakıt ve enerji istasyonu hizmeti sunan yerli dağıtım markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -516,7 +516,7 @@
       "cati_sirket": "TP Petrol Dağıtım A.Ş. (Zülfikarlar Holding)",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690902", "8690902010016"],
-      "aclama": "Kökeni kamu teşebbüsüne dayanan ve günümüzde yerli sermayeli Zülfikarlar Holding bünyesinde faaliyet gösteren Türkiye merkezli akaryakıt dağıtım markasıdır.",
+      "aciklama": "Kökeni kamu teşebbüsüne dayanan ve günümüzde yerli sermayeli Zülfikarlar Holding bünyesinde faaliyet gösteren Türkiye merkezli akaryakıt dağıtım markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -528,7 +528,7 @@
       "cati_sirket": "Aytemiz Akaryakıt Dağıtım A.Ş. (Doğan / Tatneft Ortaklığı)",
       "mensei": "Türkiye",
       "barkodlar": ["8690903", "8690903010013"],
-      "aclama": "1963 yılında Türkiye'de kurulan, Doğan Holding ve Tatneft ortaklığı geçmişiyle Türkiye akaryakıt dağıtım ağında faaliyet gösteren enerji markasıdır.",
+      "aciklama": "1963 yılında Türkiye'de kurulan, Doğan Holding ve Tatneft ortaklığı geçmişiyle Türkiye akaryakıt dağıtım ağında faaliyet gösteren enerji markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -540,7 +540,7 @@
       "cati_sirket": "Shell plc",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["5010123", "8690904"],
-      "aclama": "Shell plc, merkezi Londra (İngiltere) olan çok uluslu petrol, doğal gaz ve enerji şirketidir. Küresel enerji yatırımları nedeniyle tüketici boykot rehberlerinde yer almaktadır.",
+      "aciklama": "Shell plc, merkezi Londra (İngiltere) olan çok uluslu petrol, doğal gaz ve enerji şirketidir. Küresel enerji yatırımları nedeniyle tüketici boykot rehberlerinde yer almaktadır.",
       "populer": true,
       "alternatif_idler": ["opet", "sunpet", "turkiye_petrolleri"]
     },
@@ -552,7 +552,7 @@
       "cati_sirket": "BP plc",
       "mensei": "İngiltere",
       "barkodlar": ["5010150", "8690905"],
-      "aclama": "BP plc, merkezi Londra (İngiltere) bulunan çok uluslu petrol ve enerji şirketidir. Uluslararası tüketici inisiyatiflerinin boykot listelerinde yer almaktadır.",
+      "aciklama": "BP plc, merkezi Londra (İngiltere) bulunan çok uluslu petrol ve enerji şirketidir. Uluslararası tüketici inisiyatiflerinin boykot listelerinde yer almaktadır.",
       "populer": false,
       "alternatif_idler": ["opet", "sunpet", "turkiye_petrolleri"]
     },
@@ -564,7 +564,7 @@
       "cati_sirket": "TotalEnergies SE",
       "mensei": "Fransa",
       "barkodlar": ["3267020", "8690906"],
-      "aclama": "TotalEnergies SE, merkezi Courbevoie (Fransa) olan çok uluslu entegre enerji ve akaryakıt şirketidir.",
+      "aciklama": "TotalEnergies SE, merkezi Courbevoie (Fransa) olan çok uluslu entegre enerji ve akaryakıt şirketidir.",
       "populer": false,
       "alternatif_idler": ["opet", "turkiye_petrolleri", "aytemiz"]
     },
@@ -576,7 +576,7 @@
       "cati_sirket": "ExxonMobil Corporation",
       "mensei": "ABD",
       "barkodlar": ["0043100", "5010180"],
-      "aclama": "Esso ve Mobil, merkezi Teksas (ABD) olan çok uluslu petrol ve petrokimya şirketi ExxonMobil bünyesindeki akaryakıt ve madeni yağ markalarıdır.",
+      "aciklama": "Esso ve Mobil, merkezi Teksas (ABD) olan çok uluslu petrol ve petrokimya şirketi ExxonMobil bünyesindeki akaryakıt ve madeni yağ markalarıdır.",
       "populer": false,
       "alternatif_idler": ["opet", "sunpet", "turkiye_petrolleri"]
     },
@@ -588,7 +588,7 @@
       "cati_sirket": "Türkiye'nin Otomobili Girişim Grubu A.Ş.",
       "mensei": "Türkiye (Bursa - Gemlik)",
       "barkodlar": ["8683001"],
-      "aclama": "2018 yılında yerli sanayi ortaklığıyla kurulan ve Bursa Gemlik tesislerinde doğuştan elektrikli akıllı mobilite cihazları üreten Türkiye merkezli otomotiv markasıdır.",
+      "aciklama": "2018 yılında yerli sanayi ortaklığıyla kurulan ve Bursa Gemlik tesislerinde doğuştan elektrikli akıllı mobilite cihazları üreten Türkiye merkezli otomotiv markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -600,7 +600,7 @@
       "cati_sirket": "Abdulkadir Özcan A.Ş. (AKO Grup)",
       "mensei": "Türkiye (Kırşehir)",
       "barkodlar": ["8698641", "8698641010015"],
-      "aclama": "1976 yılında kurulan ve %100 yerli sermayeli AKO Grup bünyesinde Kırşehir fabrikasında binek, ticari ve savunma sanayi lastikleri üreten Türk markasıdır.",
+      "aciklama": "1976 yılında kurulan ve %100 yerli sermayeli AKO Grup bünyesinde Kırşehir fabrikasında binek, ticari ve savunma sanayi lastikleri üreten Türk markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -612,7 +612,7 @@
       "cati_sirket": "Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Kocaeli / Aksaray)",
       "barkodlar": ["8690518", "8690518010017"],
-      "aclama": "1974 yılında Sabancı Grubu tarafından kurulan, İzmit ve Aksaray tesislerinde yerli üretim gerçekleştiren Türkiye'nin köklü lastik markasıdır.",
+      "aciklama": "1974 yılında Sabancı Grubu tarafından kurulan, İzmit ve Aksaray tesislerinde yerli üretim gerçekleştiren Türkiye'nin köklü lastik markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -624,7 +624,7 @@
       "cati_sirket": "Karsan Otomotiv Sanayii ve Ticaret A.Ş. (Kıraça Holding)",
       "mensei": "Türkiye (Bursa)",
       "barkodlar": ["8698642"],
-      "aclama": "1966 yılında Bursa'da kurulan, Kıraça Holding bünyesinde elektrikli ve otonom toplu taşıma araçları ile ticari araçlar üreten yerli otomotiv firmasıdır.",
+      "aciklama": "1966 yılında Bursa'da kurulan, Kıraça Holding bünyesinde elektrikli ve otonom toplu taşıma araçları ile ticari araçlar üreten yerli otomotiv firmasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -636,7 +636,7 @@
       "cati_sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş. (Koç Holding)",
       "mensei": "Türkiye (Sakarya)",
       "barkodlar": ["8698643"],
-      "aclama": "1963 yılında kurulan ve Sakarya tesislerinde Koç Holding bünyesinde ticari otobüs, hafif kamyon ve savunma sanayi araçları üreten Türkiye merkezli kuruluştur.",
+      "aciklama": "1963 yılında kurulan ve Sakarya tesislerinde Koç Holding bünyesinde ticari otobüs, hafif kamyon ve savunma sanayi araçları üreten Türkiye merkezli kuruluştur.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -648,7 +648,7 @@
       "cati_sirket": "Compagnie Générale des Établissements Michelin",
       "mensei": "Fransa",
       "barkodlar": ["3528700"],
-      "aclama": "Michelin, merkezi Clermont-Ferrand (Fransa) olan çok uluslu lastik üreticisidir.",
+      "aciklama": "Michelin, merkezi Clermont-Ferrand (Fransa) olan çok uluslu lastik üreticisidir.",
       "populer": false,
       "alternatif_idler": ["petlas", "lassa"]
     },
@@ -660,7 +660,7 @@
       "cati_sirket": "The Goodyear Tire & Rubber Company",
       "mensei": "ABD",
       "barkodlar": ["0042272", "5452000"],
-      "aclama": "Goodyear, merkezi Akron (Ohio, ABD) olan çok uluslu lastik ve kauçuk ürünleri üreticisidir.",
+      "aciklama": "Goodyear, merkezi Akron (Ohio, ABD) olan çok uluslu lastik ve kauçuk ürünleri üreticisidir.",
       "populer": false,
       "alternatif_idler": ["petlas", "lassa"]
     },
@@ -672,7 +672,7 @@
       "cati_sirket": "Bridgestone Corporation",
       "mensei": "Japonya",
       "barkodlar": ["4961914", "3286340"],
-      "aclama": "Bridgestone Corporation, merkezi Tokyo (Japonya) olan çok uluslu lastik ve otomotiv parçaları üreticisidir.",
+      "aciklama": "Bridgestone Corporation, merkezi Tokyo (Japonya) olan çok uluslu lastik ve otomotiv parçaları üreticisidir.",
       "populer": false,
       "alternatif_idler": ["petlas", "lassa"]
     },
@@ -684,7 +684,7 @@
       "cati_sirket": "Ford Motor Company",
       "mensei": "ABD",
       "barkodlar": ["0045011"],
-      "aclama": "Ford Motor Company, merkezi Dearborn (Michigan, ABD) olan çok uluslu otomobil ve ticari araç üreticisidir.",
+      "aciklama": "Ford Motor Company, merkezi Dearborn (Michigan, ABD) olan çok uluslu otomobil ve ticari araç üreticisidir.",
       "populer": false,
       "alternatif_idler": ["togg", "karsan", "otokar"]
     },
@@ -696,7 +696,7 @@
       "cati_sirket": "Renault Group",
       "mensei": "Fransa",
       "barkodlar": ["3276420"],
-      "aclama": "Renault Group, merkezi Boulogne-Billancourt (Fransa) olan çok uluslu otomotiv üreticisidir.",
+      "aciklama": "Renault Group, merkezi Boulogne-Billancourt (Fransa) olan çok uluslu otomotiv üreticisidir.",
       "populer": false,
       "alternatif_idler": ["togg", "karsan", "otokar"]
     },
@@ -708,7 +708,7 @@
       "cati_sirket": "Hyundai Motor Company",
       "mensei": "Güney Kore",
       "barkodlar": ["8809000"],
-      "aclama": "Hyundai Motor Company, merkezi Seul (Güney Kore) olan çok uluslu otomotiv üreticisidir.",
+      "aciklama": "Hyundai Motor Company, merkezi Seul (Güney Kore) olan çok uluslu otomotiv üreticisidir.",
       "populer": false,
       "alternatif_idler": ["togg", "karsan", "otokar"]
     },
@@ -720,7 +720,7 @@
       "cati_sirket": "Şölen Çikolata Gıda Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Gaziantep)",
       "barkodlar": ["8690767", "8690767010015"],
-      "aclama": "1989 yılında Gaziantep'te Çoban ailesi tarafından kurulan, çikolata, bisküvi ve şekerleme alanında üretim yapan %100 yerli sermayeli Türk gıda şirketidir.",
+      "aciklama": "1989 yılında Gaziantep'te Çoban ailesi tarafından kurulan, çikolata, bisküvi ve şekerleme alanında üretim yapan %100 yerli sermayeli Türk gıda şirketidir.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -732,7 +732,7 @@
       "cati_sirket": "Bifa Bisküvi ve Gıda Sanayi A.Ş.",
       "mensei": "Türkiye (Karaman)",
       "barkodlar": ["8690546", "8690546010012"],
-      "aclama": "1962 yılında Karaman'da kurulan, bisküvi, kek, gofret ve çikolata üretimi gerçekleştiren köklü ve bağımsız yerli Türk gıda kuruluşudur.",
+      "aciklama": "1962 yılında Karaman'da kurulan, bisküvi, kek, gofret ve çikolata üretimi gerçekleştiren köklü ve bağımsız yerli Türk gıda kuruluşudur.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -744,7 +744,7 @@
       "cati_sirket": "Sek Süt Endüstrisi Kurumu / Çallı Gıda",
       "mensei": "Türkiye (Bursa / İstanbul)",
       "barkodlar": ["86905658", "8690565"],
-      "aclama": "1963 yılında Türkiye Süt Endüstrisi Kurumu olarak kurulan, yerli hayvancılık ve süt işleme tesisleriyle süt, yoğurt ve peynir ürünleri üreten Türkiye merkezli markadır.",
+      "aciklama": "1963 yılında Türkiye Süt Endüstrisi Kurumu olarak kurulan, yerli hayvancılık ve süt işleme tesisleriyle süt, yoğurt ve peynir ürünleri üreten Türkiye merkezli markadır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -756,7 +756,7 @@
       "cati_sirket": "İçim Süt / Ak Gıda Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Sakarya / Lüleburgaz)",
       "barkodlar": ["86905268", "8690526"],
-      "aclama": "Türkiye genelindeki süt işleme tesislerinde yerli üreticilerden tedarik edilen sütle süt, yoğurt, ayran ve peynir çeşitleri üreten gıda markasıdır.",
+      "aciklama": "Türkiye genelindeki süt işleme tesislerinde yerli üreticilerden tedarik edilen sütle süt, yoğurt, ayran ve peynir çeşitleri üreten gıda markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -768,7 +768,7 @@
       "cati_sirket": "Dardanel Önentaş Gıda Sanayi A.Ş.",
       "mensei": "Türkiye (Çanakkale)",
       "barkodlar": ["8690512", "8690512010011"],
-      "aclama": "1984 yılında Çanakkale'de kurulan, konserve balık ve hazır deniz ürünleri alanında faaliyet gösteren Türkiye merkezli yerli gıda üreticisidir.",
+      "aciklama": "1984 yılında Çanakkale'de kurulan, konserve balık ve hazır deniz ürünleri alanında faaliyet gösteren Türkiye merkezli yerli gıda üreticisidir.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -780,7 +780,7 @@
       "cati_sirket": "Tat Gıda Sanayi A.Ş.",
       "mensei": "Türkiye (Bursa / İzmir)",
       "barkodlar": ["8690530", "8690530010017"],
-      "aclama": "1967 yılında Bursa Mustafakemalpaşa'da kurulan, salça, domates ürünleri, konserve ve sos kategorilerinde yerli tarım ürünlerini işleyen Türk gıda şirketidir.",
+      "aciklama": "1967 yılında Bursa Mustafakemalpaşa'da kurulan, salça, domates ürünleri, konserve ve sos kategorilerinde yerli tarım ürünlerini işleyen Türk gıda şirketidir.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -792,7 +792,7 @@
       "cati_sirket": "Yayla Agro Gıda Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Ankara / Mersin)",
       "barkodlar": ["8697423", "8697423010013"],
-      "aclama": "1996 yılında Ankara'da kurulan, pirinç, bulgur, bakliyat ve hazır yemek kategorilerinde üretim yapan yerli sermayeli ve halka açık Türk gıda şirketidir.",
+      "aciklama": "1996 yılında Ankara'da kurulan, pirinç, bulgur, bakliyat ve hazır yemek kategorilerinde üretim yapan yerli sermayeli ve halka açık Türk gıda şirketidir.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -804,7 +804,7 @@
       "cati_sirket": "Tariş Tarım Satış Kooperatifleri Birlikleri",
       "mensei": "Türkiye (İzmir)",
       "barkodlar": ["8690534", "8690534010013"],
-      "aclama": "1915 yılına uzanan geçmişiyle Ege Bölgesi zeytin, zeytinyağı, incir ve üzüm üreticilerinin kooperatif birliği olarak faaliyet gösteren yerli kuruluşudur.",
+      "aciklama": "1915 yılına uzanan geçmişiyle Ege Bölgesi zeytin, zeytinyağı, incir ve üzüm üreticilerinin kooperatif birliği olarak faaliyet gösteren yerli kuruluşudur.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -816,7 +816,7 @@
       "cati_sirket": "Marmara Zeytin Tarım Satış Kooperatifleri Birliği",
       "mensei": "Türkiye (Bursa)",
       "barkodlar": ["8690878", "8690878010019"],
-      "aclama": "1954 yılında Bursa'da kurulan, Güney Marmara zeytin üreticilerinin ortaklığına dayanan yerli tarım satış kooperatifi ve sofralık zeytin markasıdır.",
+      "aciklama": "1954 yılında Bursa'da kurulan, Güney Marmara zeytin üreticilerinin ortaklığına dayanan yerli tarım satış kooperatifi ve sofralık zeytin markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -828,7 +828,7 @@
       "cati_sirket": "Danone S.A.",
       "mensei": "Fransa",
       "barkodlar": ["3033490"],
-      "aclama": "Danone S.A., merkezi Paris (Fransa) olan çok uluslu süt ürünleri, bebek beslenmesi ve içecek şirketidir.",
+      "aciklama": "Danone S.A., merkezi Paris (Fransa) olan çok uluslu süt ürünleri, bebek beslenmesi ve içecek şirketidir.",
       "populer": false,
       "alternatif_idler": ["sutas", "pinar", "sek_sut"]
     },
@@ -840,7 +840,7 @@
       "cati_sirket": "Danone S.A.",
       "mensei": "Fransa",
       "barkodlar": ["3033491"],
-      "aclama": "Activia, Fransa merkezli çok uluslu Danone S.A. grubuna ait probiyotik yoğurt ve süt ürünleri markasıdır.",
+      "aciklama": "Activia, Fransa merkezli çok uluslu Danone S.A. grubuna ait probiyotik yoğurt ve süt ürünleri markasıdır.",
       "populer": false,
       "alternatif_idler": ["sutas", "pinar", "icim"]
     },
@@ -852,7 +852,7 @@
       "cati_sirket": "JDE Peet's N.V.",
       "mensei": "Hollanda / Almanya",
       "barkodlar": ["8711000"],
-      "aclama": "Jacobs, merkezi Amsterdam (Hollanda) olan çok uluslu kahve ve çay grubu JDE Peet's bünyesindeki kahve markasıdır.",
+      "aciklama": "Jacobs, merkezi Amsterdam (Hollanda) olan çok uluslu kahve ve çay grubu JDE Peet's bünyesindeki kahve markasıdır.",
       "populer": false,
       "alternatif_idler": ["kahve_dunyasi", "caykur", "dogus_cay"]
     },
@@ -864,7 +864,7 @@
       "cati_sirket": "Mondelēz International, Inc.",
       "mensei": "ABD / İsviçre",
       "barkodlar": ["7622210"],
-      "aclama": "Milka, merkezi Chicago (ABD) olan çok uluslu atıştırmalık şirketi Mondelēz International bünyesindeki çikolata markasıdır.",
+      "aciklama": "Milka, merkezi Chicago (ABD) olan çok uluslu atıştırmalık şirketi Mondelēz International bünyesindeki çikolata markasıdır.",
       "populer": false,
       "alternatif_idler": ["ulker", "eti", "torku"]
     },
@@ -876,7 +876,7 @@
       "cati_sirket": "Mondelēz International, Inc.",
       "mensei": "ABD",
       "barkodlar": ["7622300"],
-      "aclama": "Oreo, ABD merkezli çok uluslu gıda şirketi Mondelēz International tarafından sahiplenilen kakaolu kremalı bisküvi markasıdır.",
+      "aciklama": "Oreo, ABD merkezli çok uluslu gıda şirketi Mondelēz International tarafından sahiplenilen kakaolu kremalı bisküvi markasıdır.",
       "populer": false,
       "alternatif_idler": ["eti", "ulker", "bifa"]
     },
@@ -888,7 +888,7 @@
       "cati_sirket": "Mondelēz International, Inc.",
       "mensei": "ABD / İsviçre",
       "barkodlar": ["7622200"],
-      "aclama": "Toblerone, İsviçre kökenli olup küresel marka hakları ABD merkezli Mondelēz International şirketine ait olan çikolata markasıdır.",
+      "aciklama": "Toblerone, İsviçre kökenli olup küresel marka hakları ABD merkezli Mondelēz International şirketine ait olan çikolata markasıdır.",
       "populer": false,
       "alternatif_idler": ["solen", "eti", "ulker"]
     },
@@ -900,7 +900,7 @@
       "cati_sirket": "Mars, Incorporated",
       "mensei": "ABD",
       "barkodlar": ["50001590", "5000159"],
-      "aclama": "Snickers, merkezi McLean (Virginia, ABD) olan çok uluslu şekerleme ve gıda şirketi Mars, Incorporated'ın küresel çikolata barı markasıdır.",
+      "aciklama": "Snickers, merkezi McLean (Virginia, ABD) olan çok uluslu şekerleme ve gıda şirketi Mars, Incorporated'ın küresel çikolata barı markasıdır.",
       "populer": false,
       "alternatif_idler": ["ulker", "eti", "torku"]
     },
@@ -912,7 +912,7 @@
       "cati_sirket": "Mars, Incorporated",
       "mensei": "ABD",
       "barkodlar": ["50001591", "5000159"],
-      "aclama": "Mars çikolata barı, ABD merkezli çok uluslu gıda şirketi Mars, Incorporated bünyesinde üretilmektedir.",
+      "aciklama": "Mars çikolata barı, ABD merkezli çok uluslu gıda şirketi Mars, Incorporated bünyesinde üretilmektedir.",
       "populer": false,
       "alternatif_idler": ["ulker", "eti", "solen"]
     },
@@ -924,7 +924,7 @@
       "cati_sirket": "Mars, Incorporated",
       "mensei": "ABD",
       "barkodlar": ["50001592", "5000159"],
-      "aclama": "Twix, karamel ve bisküvili çikolata kategorisinde ABD merkezli Mars, Incorporated'a ait küresel markadır.",
+      "aciklama": "Twix, karamel ve bisküvili çikolata kategorisinde ABD merkezli Mars, Incorporated'a ait küresel markadır.",
       "populer": false,
       "alternatif_idler": ["ulker", "eti", "bifa"]
     },
@@ -936,7 +936,7 @@
       "cati_sirket": "Kellanova",
       "mensei": "ABD",
       "barkodlar": ["5053990"],
-      "aclama": "Pringles, ABD merkezli çok uluslu atıştırmalık şirketi Kellanova (eski Kellogg's grubu) bünyesinde yer alan patates cipsi markasıdır.",
+      "aciklama": "Pringles, ABD merkezli çok uluslu atıştırmalık şirketi Kellanova (eski Kellogg's grubu) bünyesinde yer alan patates cipsi markasıdır.",
       "populer": false,
       "alternatif_idler": ["ulker", "eti", "torku"]
     },
@@ -948,7 +948,7 @@
       "cati_sirket": "PepsiCo, Inc. (Frito-Lay)",
       "mensei": "ABD",
       "barkodlar": ["86906240", "50003280", "5000328"],
-      "aclama": "Doritos, ABD merkezli çok uluslu PepsiCo Inc. iştiraki Frito-Lay tarafından üretilen mısır cipsi markasıdır.",
+      "aciklama": "Doritos, ABD merkezli çok uluslu PepsiCo Inc. iştiraki Frito-Lay tarafından üretilen mısır cipsi markasıdır.",
       "populer": true,
       "alternatif_idler": ["ulker", "eti", "torku"]
     },
@@ -960,7 +960,7 @@
       "cati_sirket": "PepsiCo, Inc. (Frito-Lay)",
       "mensei": "ABD",
       "barkodlar": ["86906241", "50003281", "5000328"],
-      "aclama": "Lay's, merkezi ABD'de bulunan PepsiCo Inc. bünyesindeki Frito-Lay grubuna ait küresel patates cipsi markasıdır.",
+      "aciklama": "Lay's, merkezi ABD'de bulunan PepsiCo Inc. bünyesindeki Frito-Lay grubuna ait küresel patates cipsi markasıdır.",
       "populer": false,
       "alternatif_idler": ["ulker", "eti", "torku"]
     },
@@ -972,7 +972,7 @@
       "cati_sirket": "PepsiCo, Inc. (Frito-Lay)",
       "mensei": "ABD",
       "barkodlar": ["86906242", "50003282", "5000328"],
-      "aclama": "Ruffles, ABD merkezli PepsiCo Inc. (Frito-Lay) grubuna ait tırtıklı patates cipsi markasıdır.",
+      "aciklama": "Ruffles, ABD merkezli PepsiCo Inc. (Frito-Lay) grubuna ait tırtıklı patates cipsi markasıdır.",
       "populer": false,
       "alternatif_idler": ["ulker", "eti", "torku"]
     },
@@ -984,7 +984,7 @@
       "cati_sirket": "PepsiCo, Inc. (Frito-Lay)",
       "mensei": "ABD",
       "barkodlar": ["86906243", "50003283", "5000328"],
-      "aclama": "Cheetos, PepsiCo Inc. (ABD) bünyesindeki Frito-Lay tarafından geliştirilen mısır çerezi markasıdır.",
+      "aciklama": "Cheetos, PepsiCo Inc. (ABD) bünyesindeki Frito-Lay tarafından geliştirilen mısır çerezi markasıdır.",
       "populer": false,
       "alternatif_idler": ["ulker", "eti", "bifa"]
     },
@@ -996,7 +996,7 @@
       "cati_sirket": "The Kraft Heinz Company",
       "mensei": "ABD",
       "barkodlar": ["5000157"],
-      "aclama": "Heinz, merkezi Pittsburgh ve Chicago (ABD) olan çok uluslu The Kraft Heinz Company'nin ketçap ve sos markasıdır.",
+      "aciklama": "Heinz, merkezi Pittsburgh ve Chicago (ABD) olan çok uluslu The Kraft Heinz Company'nin ketçap ve sos markasıdır.",
       "populer": false,
       "alternatif_idler": ["tat_gida", "torku", "pinar"]
     },
@@ -1008,7 +1008,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / ABD",
       "barkodlar": ["8712100"],
-      "aclama": "Hellmann's, İngiltere merkezli çok uluslu tüketim malları grubu Unilever PLC bünyesindeki mayonez ve sos markasıdır.",
+      "aciklama": "Hellmann's, İngiltere merkezli çok uluslu tüketim malları grubu Unilever PLC bünyesindeki mayonez ve sos markasıdır.",
       "populer": false,
       "alternatif_idler": ["tat_gida", "torku", "pinar"]
     },
@@ -1020,7 +1020,7 @@
       "cati_sirket": "Beypazarı İçecek Pazarlama Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Ankara - Beypazarı)",
       "barkodlar": ["8690787", "8690787010014"],
-      "aclama": "1957 yılından bu yana Ankara Beypazarı'ndaki doğal kaynaktan dolum yapan, tamamı yerli aile sermayesiyle yönetilen doğal maden suyu üreticisidir.",
+      "aciklama": "1957 yılından bu yana Ankara Beypazarı'ndaki doğal kaynaktan dolum yapan, tamamı yerli aile sermayesiyle yönetilen doğal maden suyu üreticisidir.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -1032,7 +1032,7 @@
       "cati_sirket": "Sarıkız Doğal Maden Suyu İşletmesi",
       "mensei": "Türkiye (Manisa - Alaşehir)",
       "barkodlar": ["8690793", "8690793010019"],
-      "aclama": "Manisa Alaşehir'deki doğal mineralli su kaynağından dolum yapan, tamamı yerli sermayeli köklü Türk maden suyu markasıdır.",
+      "aciklama": "Manisa Alaşehir'deki doğal mineralli su kaynağından dolum yapan, tamamı yerli sermayeli köklü Türk maden suyu markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1044,7 +1044,7 @@
       "cati_sirket": "Dimes Gıda Sanayi ve Ticaret A.Ş. (Diren Holding)",
       "mensei": "Türkiye (Tokat / İzmir)",
       "barkodlar": ["8690533", "8690533010014"],
-      "aclama": "1958 yılında Tokat'ta kurulan ve yerli aile şirketi Diren Holding bünyesinde meyve suyu, süt ve içecek üretimi yapan Türkiye merkezli kuruluştur.",
+      "aciklama": "1958 yılında Tokat'ta kurulan ve yerli aile şirketi Diren Holding bünyesinde meyve suyu, süt ve içecek üretimi yapan Türkiye merkezli kuruluştur.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -1056,7 +1056,7 @@
       "cati_sirket": "Meysu Gıda Sanayi ve Ticaret A.Ş. (Gülsan Gıda)",
       "mensei": "Türkiye (Kayseri)",
       "barkodlar": ["8690710", "8690710010016"],
-      "aclama": "1948'e uzanan geçmişiyle Kayseri merkezli Gülsan Gıda bünyesinde meyve suyu ve içecek üretimi yapan %100 yerli sermayeli markadır.",
+      "aciklama": "1948'e uzanan geçmişiyle Kayseri merkezli Gülsan Gıda bünyesinde meyve suyu ve içecek üretimi yapan %100 yerli sermayeli markadır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1068,7 +1068,7 @@
       "cati_sirket": "Tamek Gıda ve Konsantre Sanayi ve Ticaret A.Ş. (OYAK)",
       "mensei": "Türkiye (Bursa)",
       "barkodlar": ["8690514", "8690514010019"],
-      "aclama": "1955 yılında kurulan ve günümüzde OYAK Gıda grubu bünyesinde Bursa, Balıkesir ve Manisa tesislerinde üretim yapan yerli meyve suyu ve gıda markasıdır.",
+      "aciklama": "1955 yılında kurulan ve günümüzde OYAK Gıda grubu bünyesinde Bursa, Balıkesir ve Manisa tesislerinde üretim yapan yerli meyve suyu ve gıda markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1080,7 +1080,7 @@
       "cati_sirket": "Saka Su (Yıldız Holding / DyDo Drinco Ortaklığı - Türkiye Kaynağı)",
       "mensei": "Türkiye (Sakarya - Hendek)",
       "barkodlar": ["8690696", "8690696010012"],
-      "aclama": "Sakarya Hendek'teki doğal kaynaklardan dolum yapan ve Türkiye su pazarında yüksek alkali yapısıyla bilinen yerli kaynak suyu markasıdır.",
+      "aciklama": "Sakarya Hendek'teki doğal kaynaklardan dolum yapan ve Türkiye su pazarında yüksek alkali yapısıyla bilinen yerli kaynak suyu markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1092,7 +1092,7 @@
       "cati_sirket": "Hamidiye Kaynak Suları Sanayi ve Ticaret A.Ş. (İBB)",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690927", "8690927010017"],
-      "aclama": "1902 yılından beri faaliyet gösteren ve İstanbul Büyükşehir Belediyesi iştiraki olarak yerli kaynak suyu dolumu yapan kamu sermayeli markadır.",
+      "aciklama": "1902 yılından beri faaliyet gösteren ve İstanbul Büyükşehir Belediyesi iştiraki olarak yerli kaynak suyu dolumu yapan kamu sermayeli markadır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1104,7 +1104,7 @@
       "cati_sirket": "Pınar Su ve İçecek Sanayi ve Ticaret A.Ş. (Yaşar Holding)",
       "mensei": "Türkiye (İzmir / Aydın)",
       "barkodlar": ["8690562", "8690562010016"],
-      "aclama": "1984 yılında Türkiye'nin ilk tek kullanımlık şişeli kaynak sularından biri olarak Yaşar Holding bünyesinde kurulan yerli doğal kaynak suyu markasıdır.",
+      "aciklama": "1984 yılında Türkiye'nin ilk tek kullanımlık şişeli kaynak sularından biri olarak Yaşar Holding bünyesinde kurulan yerli doğal kaynak suyu markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1116,7 +1116,7 @@
       "cati_sirket": "Altınmarka Gıda Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8680105", "8680105010015"],
-      "aclama": "2004 yılında İstanbul'da Altınmarka Grubu tarafından kurulan, tamamı yerli sermaye ile kahve, çikolata ve kafe işletmeciliği yapan Türk markasıdır.",
+      "aciklama": "2004 yılında İstanbul'da Altınmarka Grubu tarafından kurulan, tamamı yerli sermaye ile kahve, çikolata ve kafe işletmeciliği yapan Türk markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -1128,7 +1128,7 @@
       "cati_sirket": "Nestlé Waters / Nestlé S.A.",
       "mensei": "İsviçre",
       "barkodlar": ["8690625"],
-      "aclama": "Erikli Su, Bursa Uludağ kaynağından dolum yapmakla birlikte 2006 yılından bu yana İsviçre merkezli çok uluslu Nestlé Waters S.A. bünyesinde yer almaktadır.",
+      "aciklama": "Erikli Su, Bursa Uludağ kaynağından dolum yapmakla birlikte 2006 yılından bu yana İsviçre merkezli çok uluslu Nestlé Waters S.A. bünyesinde yer almaktadır.",
       "populer": true,
       "alternatif_idler": ["saka_su", "hamidiye_su", "pinar_su"]
     },
@@ -1140,7 +1140,7 @@
       "cati_sirket": "Nestlé Waters / Nestlé S.A.",
       "mensei": "İsviçre",
       "barkodlar": ["86906325", "7613030"],
-      "aclama": "Nestlé Pure Life, İsviçre merkezli çok uluslu Nestlé S.A. grubunun küresel ambalajlı su markasıdır.",
+      "aciklama": "Nestlé Pure Life, İsviçre merkezli çok uluslu Nestlé S.A. grubunun küresel ambalajlı su markasıdır.",
       "populer": false,
       "alternatif_idler": ["saka_su", "hamidiye_su", "pinar_su"]
     },
@@ -1152,7 +1152,7 @@
       "cati_sirket": "The Coca-Cola Company",
       "mensei": "ABD",
       "barkodlar": ["86906326", "54490005"],
-      "aclama": "Damla Su, ABD merkezli çok uluslu The Coca-Cola Company'nin Türkiye ve bölge pazarlarındaki ambalajlı doğal kaynak suyu markasıdır.",
+      "aciklama": "Damla Su, ABD merkezli çok uluslu The Coca-Cola Company'nin Türkiye ve bölge pazarlarındaki ambalajlı doğal kaynak suyu markasıdır.",
       "populer": false,
       "alternatif_idler": ["saka_su", "hamidiye_su", "pinar_su"]
     },
@@ -1164,7 +1164,7 @@
       "cati_sirket": "Danone S.A.",
       "mensei": "Fransa",
       "barkodlar": ["8690588"],
-      "aclama": "Hayat Su, Türkiye pazarında faaliyet göstermekle birlikte Fransa merkezli çok uluslu Danone S.A. grubunun bünyesinde yer almaktadır.",
+      "aciklama": "Hayat Su, Türkiye pazarında faaliyet göstermekle birlikte Fransa merkezli çok uluslu Danone S.A. grubunun bünyesinde yer almaktadır.",
       "populer": false,
       "alternatif_idler": ["saka_su", "hamidiye_su", "pinar_su"]
     },
@@ -1176,7 +1176,7 @@
       "cati_sirket": "Danone S.A.",
       "mensei": "Fransa",
       "barkodlar": ["8690589"],
-      "aclama": "Sırma Su ve Sırma maden suyu markası, çoğunluk hisseleri Fransa merkezli çok uluslu Danone S.A.'ya ait olan su grubu bünyesindedir.",
+      "aciklama": "Sırma Su ve Sırma maden suyu markası, çoğunluk hisseleri Fransa merkezli çok uluslu Danone S.A.'ya ait olan su grubu bünyesindedir.",
       "populer": false,
       "alternatif_idler": ["beypazari", "kizilay", "saka_su"]
     },
@@ -1188,7 +1188,7 @@
       "cati_sirket": "The Coca-Cola Company",
       "mensei": "ABD",
       "barkodlar": ["86906327", "54490006"],
-      "aclama": "Fuse Tea, küresel marka hakları ABD merkezli The Coca-Cola Company'ye ait olan soğuk çay markasıdır.",
+      "aciklama": "Fuse Tea, küresel marka hakları ABD merkezli The Coca-Cola Company'ye ait olan soğuk çay markasıdır.",
       "populer": false,
       "alternatif_idler": ["caykur", "dimes", "uludag"]
     },
@@ -1200,7 +1200,7 @@
       "cati_sirket": "The Coca-Cola Company",
       "mensei": "ABD",
       "barkodlar": ["86906328", "54490007"],
-      "aclama": "Cappy, ABD merkezli The Coca-Cola Company bünyesinde yer alan meyve suyu ve nektar markasıdır.",
+      "aciklama": "Cappy, ABD merkezli The Coca-Cola Company bünyesinde yer alan meyve suyu ve nektar markasıdır.",
       "populer": false,
       "alternatif_idler": ["dimes", "meysu", "tamek"]
     },
@@ -1212,7 +1212,7 @@
       "cati_sirket": "The Coca-Cola Company / Keurig Dr Pepper",
       "mensei": "ABD / İsviçre",
       "barkodlar": ["86906329", "54490008"],
-      "aclama": "Schweppes, Türkiye dahil birçok ülkede şişeleme ve marka lisans hakları ABD merkezli The Coca-Cola Company tarafından yönetilen tonik ve gazlı içecek markasıdır.",
+      "aciklama": "Schweppes, Türkiye dahil birçok ülkede şişeleme ve marka lisans hakları ABD merkezli The Coca-Cola Company tarafından yönetilen tonik ve gazlı içecek markasıdır.",
       "populer": false,
       "alternatif_idler": ["uludag", "beypazari", "kizilay"]
     },
@@ -1224,7 +1224,7 @@
       "cati_sirket": "Tropicana Brands Group (PAI Partners / PepsiCo)",
       "mensei": "ABD",
       "barkodlar": ["86906244", "0048500"],
-      "aclama": "Tropicana, ABD merkezli olarak kurulan ve PepsiCo ortaklığıyla yönetilen küresel meyve suyu markasıdır.",
+      "aciklama": "Tropicana, ABD merkezli olarak kurulan ve PepsiCo ortaklığıyla yönetilen küresel meyve suyu markasıdır.",
       "populer": false,
       "alternatif_idler": ["dimes", "meysu", "tamek"]
     },
@@ -1236,7 +1236,7 @@
       "cati_sirket": "PepsiCo, Inc.",
       "mensei": "ABD",
       "barkodlar": ["86906245"],
-      "aclama": "Yedigün, ABD merkezli çok uluslu PepsiCo Inc. bünyesinde üretilen portakal ve meyve aromalı gazlı içecek markasıdır.",
+      "aciklama": "Yedigün, ABD merkezli çok uluslu PepsiCo Inc. bünyesinde üretilen portakal ve meyve aromalı gazlı içecek markasıdır.",
       "populer": false,
       "alternatif_idler": ["uludag", "nigde_gazozu", "kizilay"]
     },
@@ -1248,7 +1248,7 @@
       "cati_sirket": "PepsiCo, Inc.",
       "mensei": "ABD",
       "barkodlar": ["86906246"],
-      "aclama": "Fruko, marka hakları ABD merkezli çok uluslu PepsiCo Inc. şirketine ait olan limon aromalı gazoz markasıdır.",
+      "aciklama": "Fruko, marka hakları ABD merkezli çok uluslu PepsiCo Inc. şirketine ait olan limon aromalı gazoz markasıdır.",
       "populer": false,
       "alternatif_idler": ["uludag", "nigde_gazozu", "kizilay"]
     },
@@ -1260,7 +1260,7 @@
       "cati_sirket": "Starbucks Corporation",
       "mensei": "ABD",
       "barkodlar": ["0762111", "87113279"],
-      "aclama": "Starbucks Corporation, merkezi Seattle (Washington, ABD) olan küresel kahve zinciri ve paketlenmiş kahve markasıdır.",
+      "aciklama": "Starbucks Corporation, merkezi Seattle (Washington, ABD) olan küresel kahve zinciri ve paketlenmiş kahve markasıdır.",
       "populer": true,
       "alternatif_idler": ["kahve_dunyasi", "caykur", "dogus_cay"]
     },
@@ -1272,7 +1272,7 @@
       "cati_sirket": "Red Bull GmbH",
       "mensei": "Avusturya",
       "barkodlar": ["9002490"],
-      "aclama": "Red Bull, merkezi Fuschl am See (Avusturya) olan çok uluslu enerji içeceği markasıdır.",
+      "aciklama": "Red Bull, merkezi Fuschl am See (Avusturya) olan çok uluslu enerji içeceği markasıdır.",
       "populer": false,
       "alternatif_idler": ["uludag", "dimes", "beypazari"]
     },
@@ -1284,7 +1284,7 @@
       "cati_sirket": "ABC Kimya Sanayi ve Ticaret A.Ş. (Başer Kimya)",
       "mensei": "Türkiye (Osmaniye)",
       "barkodlar": ["8690572", "86905728"],
-      "aclama": "1972 yılında temelleri atılan Başer Holding iştiraki ABC Kimya tarafından Osmaniye tesislerinde üretilen %100 yerli sermayeli çamaşır ve ev temizlik markasıdır.",
+      "aciklama": "1972 yılında temelleri atılan Başer Holding iştiraki ABC Kimya tarafından Osmaniye tesislerinde üretilen %100 yerli sermayeli çamaşır ve ev temizlik markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1296,7 +1296,7 @@
       "cati_sirket": "Beyaz Kağıt ve Hijyenik Ürünler Temizlik İnşaat San. Tic. A.Ş.",
       "mensei": "Türkiye (Adana)",
       "barkodlar": ["8697435", "86974350"],
-      "aclama": "Adana Organize Sanayi Bölgesi'nde tamamı yerli sermaye ile faaliyet gösteren Beyaz Kağıt A.Ş. bünyesindeki toz, sıvı deterjan ve yumuşatıcı markasıdır.",
+      "aciklama": "Adana Organize Sanayi Bölgesi'nde tamamı yerli sermaye ile faaliyet gösteren Beyaz Kağıt A.Ş. bünyesindeki toz, sıvı deterjan ve yumuşatıcı markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -1308,7 +1308,7 @@
       "cati_sirket": "Beyaz Kağıt ve Hijyenik Ürünler A.Ş.",
       "mensei": "Türkiye (Adana)",
       "barkodlar": ["86974351", "8697435"],
-      "aclama": "Yerli sermayeli Beyaz Kağıt A.Ş. tarafından Adana tesislerinde geliştirilen çok amaçlı yüzey temizleyici ve yağ çözücü markasıdır.",
+      "aciklama": "Yerli sermayeli Beyaz Kağıt A.Ş. tarafından Adana tesislerinde geliştirilen çok amaçlı yüzey temizleyici ve yağ çözücü markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -1320,7 +1320,7 @@
       "cati_sirket": "Eti Maden İşletmeleri Genel Müdürlüğü",
       "mensei": "Türkiye (Ankara / Eskişehir)",
       "barkodlar": ["8682315", "8682315010011"],
-      "aclama": "Türkiye'nin bor madenlerini işleyen kamu iktisadi teşekkülü Eti Maden tarafından geliştirilen bor mineralli yerli çamaşır ve bulaşık temizlik markasıdır.",
+      "aciklama": "Türkiye'nin bor madenlerini işleyen kamu iktisadi teşekkülü Eti Maden tarafından geliştirilen bor mineralli yerli çamaşır ve bulaşık temizlik markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1332,7 +1332,7 @@
       "cati_sirket": "Viking Temizlik ve Kozmetik Ürünleri Pazarlama San. Tic. A.Ş.",
       "mensei": "Türkiye (İzmir - Kemalpaşa)",
       "barkodlar": ["8690635", "8690635010019"],
-      "aclama": "1978 yılında İzmir'de kurulan, tamamı Türk sermayeli fabrika ve Ar-Ge altyapısı ile ev temizlik ürünleri üreten bağımsız yerli üreticidir.",
+      "aciklama": "1978 yılında İzmir'de kurulan, tamamı Türk sermayeli fabrika ve Ar-Ge altyapısı ile ev temizlik ürünleri üreten bağımsız yerli üreticidir.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1344,7 +1344,7 @@
       "cati_sirket": "Levent Kimya Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Antalya)",
       "barkodlar": ["8690727", "8690727010017"],
-      "aclama": "1979 yılında Antalya'da kurulan Levent Kimya A.Ş. tarafından üretilen yerli pas, kireç çözücü ve ev bakım ürünleri markasıdır.",
+      "aciklama": "1979 yılında Antalya'da kurulan Levent Kimya A.Ş. tarafından üretilen yerli pas, kireç çözücü ve ev bakım ürünleri markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1356,7 +1356,7 @@
       "cati_sirket": "Eczacıbaşı Tüketim Ürünleri Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Yalova / Kocaeli)",
       "barkodlar": ["86905361", "8690536"],
-      "aclama": "1978 yılında Türkiye'nin önde gelen yerli gruplarından Eczacıbaşı Topluluğu tarafından kurulan tuvalet kağıdı, havlu ve peçete markasıdır.",
+      "aciklama": "1978 yılında Türkiye'nin önde gelen yerli gruplarından Eczacıbaşı Topluluğu tarafından kurulan tuvalet kağıdı, havlu ve peçete markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1368,7 +1368,7 @@
       "cati_sirket": "Eczacıbaşı Tüketim Ürünleri Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Yalova)",
       "barkodlar": ["86905362", "8690536"],
-      "aclama": "1970 yılında Eczacıbaşı Topluluğu tarafından Türkiye'de kurulan ilk yerli temizlik kağıdı markalarından biridir.",
+      "aciklama": "1970 yılında Eczacıbaşı Topluluğu tarafından Türkiye'de kurulan ilk yerli temizlik kağıdı markalarından biridir.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -1380,7 +1380,7 @@
       "cati_sirket": "Hayat Kimya Sanayi A.Ş.",
       "mensei": "Türkiye (Kocaeli)",
       "barkodlar": ["86905363", "8690536"],
-      "aclama": "Tamamı yerli sermayeli Hayat Holding iştiraki Hayat Kimya tarafından Kocaeli tesislerinde üretilen kağıt havlu ve tuvalet kağıdı markasıdır.",
+      "aciklama": "Tamamı yerli sermayeli Hayat Holding iştiraki Hayat Kimya tarafından Kocaeli tesislerinde üretilen kağıt havlu ve tuvalet kağıdı markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1392,7 +1392,7 @@
       "cati_sirket": "Hayat Kimya Sanayi A.Ş.",
       "mensei": "Türkiye (Kocaeli / Mersin)",
       "barkodlar": ["86905364", "8690536"],
-      "aclama": "Hayat Holding bünyesindeki Hayat Kimya tarafından Türkiye'de üretilen yerli temizlik kağıdı markasıdır.",
+      "aciklama": "Hayat Holding bünyesindeki Hayat Kimya tarafından Türkiye'de üretilen yerli temizlik kağıdı markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1404,7 +1404,7 @@
       "cati_sirket": "Hayat Kimya Sanayi A.Ş.",
       "mensei": "Türkiye (Kocaeli)",
       "barkodlar": ["86905365", "8690536"],
-      "aclama": "1998 yılında yerli sermayeli Hayat Kimya tarafından geliştirilen bebek bezi ve ıslak mendil markasıdır.",
+      "aciklama": "1998 yılında yerli sermayeli Hayat Kimya tarafından geliştirilen bebek bezi ve ıslak mendil markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1416,7 +1416,7 @@
       "cati_sirket": "Procter & Gamble (P&G)",
       "mensei": "ABD",
       "barkodlar": ["80010906"],
-      "aclama": "Alo, ABD merkezli çok uluslu tüketim ürünleri şirketi Procter & Gamble (P&G) tarafından sahiplenilen çamaşır deterjanı markasıdır.",
+      "aciklama": "Alo, ABD merkezli çok uluslu tüketim ürünleri şirketi Procter & Gamble (P&G) tarafından sahiplenilen çamaşır deterjanı markasıdır.",
       "populer": false,
       "alternatif_idler": ["bingo", "abc_deterjan", "peros", "boron"]
     },
@@ -1428,7 +1428,7 @@
       "cati_sirket": "Fater S.p.A. (Procter & Gamble / Angelini Ortaklığı)",
       "mensei": "ABD / İtalya",
       "barkodlar": ["8001480"],
-      "aclama": "Ace çamaşır suyu, Procter & Gamble (P&G) tarafından kurulan ve P&G ortak girişimi Fater üzerinden yönetilen temizlik markasıdır.",
+      "aciklama": "Ace çamaşır suyu, Procter & Gamble (P&G) tarafından kurulan ve P&G ortak girişimi Fater üzerinden yönetilen temizlik markasıdır.",
       "populer": false,
       "alternatif_idler": ["bingo", "peros", "viking_temizlik"]
     },
@@ -1440,7 +1440,7 @@
       "cati_sirket": "Reckitt Benckiser Group plc",
       "mensei": "İngiltere",
       "barkodlar": ["86905709", "4002448"],
-      "aclama": "Finish, merkezi Slough (İngiltere) olan çok uluslu hijyen ve ev bakım şirketi Reckitt Benckiser bünyesindeki bulaşık makinesi deterjanı markasıdır.",
+      "aciklama": "Finish, merkezi Slough (İngiltere) olan çok uluslu hijyen ve ev bakım şirketi Reckitt Benckiser bünyesindeki bulaşık makinesi deterjanı markasıdır.",
       "populer": true,
       "alternatif_idler": ["bingo", "peros", "boron"]
     },
@@ -1452,7 +1452,7 @@
       "cati_sirket": "Reckitt Benckiser Group plc",
       "mensei": "İngiltere",
       "barkodlar": ["5011417"],
-      "aclama": "Vanish, İngiltere merkezli çok uluslu Reckitt Benckiser Group plc şirketine ait leke çıkarıcı markasıdır.",
+      "aciklama": "Vanish, İngiltere merkezli çok uluslu Reckitt Benckiser Group plc şirketine ait leke çıkarıcı markasıdır.",
       "populer": false,
       "alternatif_idler": ["bingo", "asperox", "abc_deterjan"]
     },
@@ -1464,7 +1464,7 @@
       "cati_sirket": "Reckitt Benckiser Group plc",
       "mensei": "İngiltere",
       "barkodlar": ["40024481", "50114171"],
-      "aclama": "Calgon, İngiltere merkezli Reckitt Benckiser Group plc bünyesinde bulunan çamaşır makinesi kireç önleyici markasıdır.",
+      "aciklama": "Calgon, İngiltere merkezli Reckitt Benckiser Group plc bünyesinde bulunan çamaşır makinesi kireç önleyici markasıdır.",
       "populer": false,
       "alternatif_idler": ["porcoz", "boron", "viking_temizlik"]
     },
@@ -1476,7 +1476,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87109085", "86906376"],
-      "aclama": "Cif, Londra (İngiltere) merkezli çok uluslu şirket Unilever PLC'ye ait krem temizleyici ve yüzey bakım markasıdır.",
+      "aciklama": "Cif, Londra (İngiltere) merkezli çok uluslu şirket Unilever PLC'ye ait krem temizleyici ve yüzey bakım markasıdır.",
       "populer": false,
       "alternatif_idler": ["bingo", "asperox", "porcoz"]
     },
@@ -1488,7 +1488,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87104474", "86906377"],
-      "aclama": "Rinso, İngiltere merkezli çok uluslu tüketim malları şirketi Unilever PLC'nin çamaşır deterjanı markasıdır.",
+      "aciklama": "Rinso, İngiltere merkezli çok uluslu tüketim malları şirketi Unilever PLC'nin çamaşır deterjanı markasıdır.",
       "populer": false,
       "alternatif_idler": ["bingo", "abc_deterjan", "peros"]
     },
@@ -1500,7 +1500,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87104475", "86906378"],
-      "aclama": "Yumoş, küresel marka hakları çok uluslu Unilever PLC şirketine ait olan çamaşır yumuşatıcısı markasıdır.",
+      "aciklama": "Yumoş, küresel marka hakları çok uluslu Unilever PLC şirketine ait olan çamaşır yumuşatıcısı markasıdır.",
       "populer": false,
       "alternatif_idler": ["bingo", "viking_temizlik", "abc_deterjan"]
     },
@@ -1512,7 +1512,7 @@
       "cati_sirket": "Procter & Gamble (P&G)",
       "mensei": "ABD",
       "barkodlar": ["80010907", "4015400"],
-      "aclama": "Prima (küresel adıyla Pampers), ABD merkezli çok uluslu Procter & Gamble (P&G) şirketinin bebek bezi markasıdır.",
+      "aciklama": "Prima (küresel adıyla Pampers), ABD merkezli çok uluslu Procter & Gamble (P&G) şirketinin bebek bezi markasıdır.",
       "populer": false,
       "alternatif_idler": ["molfix", "hayat_kimya"]
     },
@@ -1524,7 +1524,7 @@
       "cati_sirket": "Procter & Gamble (P&G)",
       "mensei": "ABD",
       "barkodlar": ["80010908", "40154008"],
-      "aclama": "Orkid (küresel adıyla Always), ABD merkezli Procter & Gamble (P&G) bünyesindeki hijyenik bakım ürünleri markasıdır.",
+      "aciklama": "Orkid (küresel adıyla Always), ABD merkezli Procter & Gamble (P&G) bünyesindeki hijyenik bakım ürünleri markasıdır.",
       "populer": false,
       "alternatif_idler": ["hayat_kimya", "solo", "selpak"]
     },
@@ -1536,7 +1536,7 @@
       "cati_sirket": "Henkel AG & Co. KGaA",
       "mensei": "Almanya",
       "barkodlar": ["40150008", "86905738"],
-      "aclama": "Vernel, merkezi Düsseldorf (Almanya) olan çok uluslu Henkel AG şirketinin çamaşır yumuşatıcısı markasıdır.",
+      "aciklama": "Vernel, merkezi Düsseldorf (Almanya) olan çok uluslu Henkel AG şirketinin çamaşır yumuşatıcısı markasıdır.",
       "populer": false,
       "alternatif_idler": ["bingo", "viking_temizlik", "abc_deterjan"]
     },
@@ -1548,7 +1548,7 @@
       "cati_sirket": "Henkel AG & Co. KGaA",
       "mensei": "Almanya",
       "barkodlar": ["40150009", "86905739"],
-      "aclama": "Pril, Almanya merkezli çok uluslu Henkel AG bünyesindeki sıvı bulaşık deterjanı ve makine ürünleri markasıdır.",
+      "aciklama": "Pril, Almanya merkezli çok uluslu Henkel AG bünyesindeki sıvı bulaşık deterjanı ve makine ürünleri markasıdır.",
       "populer": false,
       "alternatif_idler": ["bingo", "peros", "abc_deterjan"]
     },
@@ -1560,7 +1560,7 @@
       "cati_sirket": "Evyap Sabun Yağ Gliserin Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul / Tuzla)",
       "barkodlar": ["86905061", "8690506"],
-      "aclama": "1957 yılında yerli Evyap grubu tarafından geliştirilen Arko Nem ve Arko Men serileriyle bilinen Türkiye merkezli cilt bakım ve tıraş markasıdır.",
+      "aciklama": "1957 yılında yerli Evyap grubu tarafından geliştirilen Arko Nem ve Arko Men serileriyle bilinen Türkiye merkezli cilt bakım ve tıraş markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -1572,7 +1572,7 @@
       "cati_sirket": "Evyap Sabun Yağ Gliserin Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["86905062", "8690506"],
-      "aclama": "Tamamı yerli aile sermayeli Evyap Holding bünyesinde üretilen antibakteriyel sıvı ve katı sabun markasıdır.",
+      "aciklama": "Tamamı yerli aile sermayeli Evyap Holding bünyesinde üretilen antibakteriyel sıvı ve katı sabun markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1584,7 +1584,7 @@
       "cati_sirket": "Evyap Sabun Yağ Gliserin Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["86905063", "8690506"],
-      "aclama": "Yerli sermayeli Evyap tarafından Türkiye'de üretilen kadın deodorant ve kişisel bakım ürünleri markasıdır.",
+      "aciklama": "Yerli sermayeli Evyap tarafından Türkiye'de üretilen kadın deodorant ve kişisel bakım ürünleri markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1596,7 +1596,7 @@
       "cati_sirket": "Evyap Sabun Yağ Gliserin Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["86905065", "8690506"],
-      "aclama": "Evyap Holding bünyesinde Türkiye'de geliştirilip üretilen yerli erkek deodorant ve bakım markasıdır.",
+      "aciklama": "Evyap Holding bünyesinde Türkiye'de geliştirilip üretilen yerli erkek deodorant ve bakım markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1608,7 +1608,7 @@
       "cati_sirket": "Komili Kişisel Bakım / Kopaş Kozmetik",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690510", "8690510010018"],
-      "aclama": "1878'de Ayvalık'ta temelleri atılan zeytinyağlı sabun geleneğinin devamı olarak Türkiye'de üretilen köklü kişisel bakım, şampuan ve bebek bakım markasıdır.",
+      "aciklama": "1878'de Ayvalık'ta temelleri atılan zeytinyağlı sabun geleneğinin devamı olarak Türkiye'de üretilen köklü kişisel bakım, şampuan ve bebek bakım markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1620,7 +1620,7 @@
       "cati_sirket": "Kopaş Kozmetik Pazarlama ve Sanayi A.Ş.",
       "mensei": "Türkiye (İstanbul / Çerkezköy)",
       "barkodlar": ["8690605", "8690605010014"],
-      "aclama": "1983 yılında yerli sermayeli Kopaş Kozmetik tarafından geliştirilen ve Çerkezköy tesislerinde üretilen Türkiye'nin bebek şampuanı ve bakım markasıdır.",
+      "aciklama": "1983 yılında yerli sermayeli Kopaş Kozmetik tarafından geliştirilen ve Çerkezköy tesislerinde üretilen Türkiye'nin bebek şampuanı ve bakım markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -1632,7 +1632,7 @@
       "cati_sirket": "Bebak Laboratuvarları Kozmetik ve Gıda Sanayi A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690540", "8690540010012"],
-      "aclama": "1933 yılında İstanbul'da kurulan, acı badem sütü ve cilt bakım kremleriyle tanınan yerli ve bağımsız Türk kozmetik kuruluşudur.",
+      "aciklama": "1933 yılında İstanbul'da kurulan, acı badem sütü ve cilt bakım kremleriyle tanınan yerli ve bağımsız Türk kozmetik kuruluşudur.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1644,7 +1644,7 @@
       "cati_sirket": "Kurtsan İlaçları A.Ş.",
       "mensei": "Türkiye (Bandırma / İstanbul)",
       "barkodlar": ["86905708", "8690570"],
-      "aclama": "1955'te kurulan Kurtsan grubunun bitkisel içerikli şampuan, pastil ve doğal bakım ürünleri üreten %100 yerli sermayeli Türk markasıdır.",
+      "aciklama": "1955'te kurulan Kurtsan grubunun bitkisel içerikli şampuan, pastil ve doğal bakım ürünleri üreten %100 yerli sermayeli Türk markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1656,7 +1656,7 @@
       "cati_sirket": "Hunca Kozmetik Sanayi A.Ş. (Türkiye Üretimi)",
       "mensei": "Türkiye (Tekirdağ - Çerkezköy)",
       "barkodlar": ["8690937", "8690937010015"],
-      "aclama": "1957 yılında Adnan Hunca tarafından kurulan Hunca Kozmetik'in Çerkezköy tesislerinde üretilen şampuan, duş jeli ve saç şekillendirici markasıdır.",
+      "aciklama": "1957 yılında Adnan Hunca tarafından kurulan Hunca Kozmetik'in Çerkezköy tesislerinde üretilen şampuan, duş jeli ve saç şekillendirici markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1668,7 +1668,7 @@
       "cati_sirket": "Rebul Kozmetik Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8691226", "8691226010018"],
-      "aclama": "1895 yılında İstanbul Beyoğlu'nda kurulan Rebul Eczanesi geleneğinden doğan ve Türkiye'de kolonya ile parfüm üretimi yapan yerli kuruluştur.",
+      "aciklama": "1895 yılında İstanbul Beyoğlu'nda kurulan Rebul Eczanesi geleneğinden doğan ve Türkiye'de kolonya ile parfüm üretimi yapan yerli kuruluştur.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1680,7 +1680,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87104476", "8712561"],
-      "aclama": "Dove, İngiltere merkezli çok uluslu şirket Unilever PLC'ye ait sabun, şampuan ve kişisel bakım markasıdır.",
+      "aciklama": "Dove, İngiltere merkezli çok uluslu şirket Unilever PLC'ye ait sabun, şampuan ve kişisel bakım markasıdır.",
       "populer": false,
       "alternatif_idler": ["duru", "komili", "hobby"]
     },
@@ -1692,7 +1692,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87109086", "87125612"],
-      "aclama": "Rexona, Unilever PLC bünyesindeki küresel deodorant ve antiperspirant markasıdır.",
+      "aciklama": "Rexona, Unilever PLC bünyesindeki küresel deodorant ve antiperspirant markasıdır.",
       "populer": false,
       "alternatif_idler": ["emotion", "blade", "rebul"]
     },
@@ -1704,7 +1704,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87109087", "87125613"],
-      "aclama": "Axe, Unilever PLC'ye ait küresel erkek bakım, deodorant ve duş jeli markasıdır.",
+      "aciklama": "Axe, Unilever PLC'ye ait küresel erkek bakım, deodorant ve duş jeli markasıdır.",
       "populer": false,
       "alternatif_idler": ["blade", "arko", "rebul"]
     },
@@ -1716,7 +1716,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87109088", "86906379"],
-      "aclama": "Elidor (küresel adıyla Sunsilk), İngiltere merkezli Unilever PLC bünyesindeki saç bakım ve şampuan markasıdır.",
+      "aciklama": "Elidor (küresel adıyla Sunsilk), İngiltere merkezli Unilever PLC bünyesindeki saç bakım ve şampuan markasıdır.",
       "populer": false,
       "alternatif_idler": ["otaci", "hobby", "eyup_sabri_tuncer"]
     },
@@ -1728,7 +1728,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87109089", "87125614"],
-      "aclama": "Clear, Unilever PLC tarafından sahiplenilen kepek karşıtı şampuan markasıdır.",
+      "aciklama": "Clear, Unilever PLC tarafından sahiplenilen kepek karşıtı şampuan markasıdır.",
       "populer": false,
       "alternatif_idler": ["otaci", "hobby", "eyup_sabri_tuncer"]
     },
@@ -1740,7 +1740,7 @@
       "cati_sirket": "Unilever PLC",
       "mensei": "İngiltere / Hollanda",
       "barkodlar": ["87109080", "87125615"],
-      "aclama": "Signal, çok uluslu Unilever PLC grubunun ağız ve diş bakım ürünleri markasıdır.",
+      "aciklama": "Signal, çok uluslu Unilever PLC grubunun ağız ve diş bakım ürünleri markasıdır.",
       "populer": false,
       "alternatif_idler": ["eyup_sabri_tuncer", "evyap", "duru"]
     },
@@ -1752,7 +1752,7 @@
       "cati_sirket": "Beiersdorf AG",
       "mensei": "Almanya",
       "barkodlar": ["4005808", "4005900"],
-      "aclama": "Nivea, merkezi Hamburg (Almanya) olan çok uluslu cilt bakım şirketi Beiersdorf AG'nin amiral gemisi markasıdır.",
+      "aciklama": "Nivea, merkezi Hamburg (Almanya) olan çok uluslu cilt bakım şirketi Beiersdorf AG'nin amiral gemisi markasıdır.",
       "populer": false,
       "alternatif_idler": ["bebak", "arko", "duru"]
     },
@@ -1764,7 +1764,7 @@
       "cati_sirket": "L'Oréal S.A.",
       "mensei": "Fransa",
       "barkodlar": ["3600523", "3600520"],
-      "aclama": "L'Oréal Paris, merkezi Clichy (Fransa) olan dünyanın en büyük çok uluslu kozmetik gruplarından L'Oréal S.A. markasıdır.",
+      "aciklama": "L'Oréal Paris, merkezi Clichy (Fransa) olan dünyanın en büyük çok uluslu kozmetik gruplarından L'Oréal S.A. markasıdır.",
       "populer": false,
       "alternatif_idler": ["otaci", "bebak", "hobby"]
     },
@@ -1776,7 +1776,7 @@
       "cati_sirket": "L'Oréal S.A.",
       "mensei": "Fransa",
       "barkodlar": ["3600542", "3600540"],
-      "aclama": "Garnier, Fransa merkezli çok uluslu kozmetik şirketi L'Oréal S.A. bünyesindeki cilt ve saç bakım markasıdır.",
+      "aciklama": "Garnier, Fransa merkezli çok uluslu kozmetik şirketi L'Oréal S.A. bünyesindeki cilt ve saç bakım markasıdır.",
       "populer": false,
       "alternatif_idler": ["bebak", "otaci", "eyup_sabri_tuncer"]
     },
@@ -1788,7 +1788,7 @@
       "cati_sirket": "Procter & Gamble (P&G)",
       "mensei": "ABD",
       "barkodlar": ["7702018", "3014260"],
-      "aclama": "Gillette, ABD merkezli çok uluslu Procter & Gamble (P&G) şirketine ait tıraş bıçağı ve bakım ürünleri markasıdır.",
+      "aciklama": "Gillette, ABD merkezli çok uluslu Procter & Gamble (P&G) şirketine ait tıraş bıçağı ve bakım ürünleri markasıdır.",
       "populer": false,
       "alternatif_idler": ["arko", "blade", "evyap"]
     },
@@ -1800,7 +1800,7 @@
       "cati_sirket": "Procter & Gamble (P&G)",
       "mensei": "ABD",
       "barkodlar": ["4210201", "30142601"],
-      "aclama": "Oral-B, ABD merkezli çok uluslu Procter & Gamble (P&G) grubunun diş fırçası ve ağız bakım markasıdır.",
+      "aciklama": "Oral-B, ABD merkezli çok uluslu Procter & Gamble (P&G) grubunun diş fırçası ve ağız bakım markasıdır.",
       "populer": false,
       "alternatif_idler": ["eyup_sabri_tuncer", "evyap", "duru"]
     },
@@ -1812,7 +1812,7 @@
       "cati_sirket": "Haleon plc",
       "mensei": "İngiltere",
       "barkodlar": ["5054563", "5000347"],
-      "aclama": "Sensodyne, merkezi İngiltere'de bulunan çok uluslu tüketici sağlığı şirketi Haleon plc (eski GSK Tüketici Sağlığı) markasıdır.",
+      "aciklama": "Sensodyne, merkezi İngiltere'de bulunan çok uluslu tüketici sağlığı şirketi Haleon plc (eski GSK Tüketici Sağlığı) markasıdır.",
       "populer": false,
       "alternatif_idler": ["eyup_sabri_tuncer", "evyap", "duru"]
     },
@@ -1824,7 +1824,7 @@
       "cati_sirket": "Kenvue Inc. (Johnson & Johnson)",
       "mensei": "ABD",
       "barkodlar": ["3574661", "3574660"],
-      "aclama": "Johnson's Baby, ABD merkezli Kenvue Inc. (Johnson & Johnson'dan ayrılan tüketici sağlığı şirketi) bünyesindeki bebek bakım markasıdır.",
+      "aciklama": "Johnson's Baby, ABD merkezli Kenvue Inc. (Johnson & Johnson'dan ayrılan tüketici sağlığı şirketi) bünyesindeki bebek bakım markasıdır.",
       "populer": false,
       "alternatif_idler": ["dalin", "komili", "bebak"]
     },
@@ -1836,7 +1836,7 @@
       "cati_sirket": "Mavi Giyim Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8697400", "8697400010019"],
-      "aclama": "1991 yılında İstanbul'da kurulan, Borsa İstanbul'da halka açık olan Türkiye merkezli jean ve hazır giyim markasıdır.",
+      "aciklama": "1991 yılında İstanbul'da kurulan, Borsa İstanbul'da halka açık olan Türkiye merkezli jean ve hazır giyim markasıdır.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -1848,7 +1848,7 @@
       "cati_sirket": "DeFacto Perakende Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8680000", "8680000010014"],
-      "aclama": "2005 yılında İstanbul'da kurulan ve Türkiye merkezli sermaye yapısıyla faaliyet gösteren hazır giyim ve moda perakendecisidir.",
+      "aciklama": "2005 yılında İstanbul'da kurulan ve Türkiye merkezli sermaye yapısıyla faaliyet gösteren hazır giyim ve moda perakendecisidir.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1860,7 +1860,7 @@
       "cati_sirket": "Kiğılı Giyim Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["86900001", "8690000"],
-      "aclama": "1938 yılında temelleri atılan, tamamı yerli aile sermayesiyle yönetilen Türkiye'nin köklü erkek giyim ve perakende markasıdır.",
+      "aciklama": "1938 yılında temelleri atılan, tamamı yerli aile sermayesiyle yönetilen Türkiye'nin köklü erkek giyim ve perakende markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1872,7 +1872,7 @@
       "cati_sirket": "Sarar Giyim Tekstil Enerji Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Eskişehir)",
       "barkodlar": ["86900002", "8690000"],
-      "aclama": "1944 yılında Eskişehir'de Abdurrahman Sarar tarafından kurulan, Eskişehir tesislerinde üretim yapan yerli tekstil ve erkek giyim markasıdır.",
+      "aciklama": "1944 yılında Eskişehir'de Abdurrahman Sarar tarafından kurulan, Eskişehir tesislerinde üretim yapan yerli tekstil ve erkek giyim markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1884,7 +1884,7 @@
       "cati_sirket": "Orka Holding A.Ş.",
       "mensei": "Türkiye (İstanbul / Giresun)",
       "barkodlar": ["8681810"],
-      "aclama": "1986 yılında Orka Holding bünyesinde kurulan, Giresun'daki üretim tesisleriyle faaliyet gösteren yerli sermayeli erkek giyim markasıdır.",
+      "aciklama": "1986 yılında Orka Holding bünyesinde kurulan, Giresun'daki üretim tesisleriyle faaliyet gösteren yerli sermayeli erkek giyim markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1896,7 +1896,7 @@
       "cati_sirket": "Vakko Tekstil ve Hazır Giyim Sanayi İşletmeleri A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8694500"],
-      "aclama": "1934 yılında İstanbul'da kurulan, Borsa İstanbul'da işlem gören Türkiye merkezli lüks hazır giyim, eşarp ve aksesuar markasıdır.",
+      "aciklama": "1934 yılında İstanbul'da kurulan, Borsa İstanbul'da işlem gören Türkiye merkezli lüks hazır giyim, eşarp ve aksesuar markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1908,7 +1908,7 @@
       "cati_sirket": "FLO Mağazacılık ve Pazarlama A.Ş. (Ziylan Grup)",
       "mensei": "Türkiye (İstanbul / Şanlıurfa)",
       "barkodlar": ["8681900"],
-      "aclama": "1960 yılında Ziylan Grup tarafından kurulan, Türkiye genelindeki mağaza ve Şanlıurfa üretim tesisleriyle faaliyet gösteren yerli ayakkabı ve spor giyim grubudur.",
+      "aciklama": "1960 yılında Ziylan Grup tarafından kurulan, Türkiye genelindeki mağaza ve Şanlıurfa üretim tesisleriyle faaliyet gösteren yerli ayakkabı ve spor giyim grubudur.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1920,7 +1920,7 @@
       "cati_sirket": "Kavsan Ayakkabı Sanayi ve Ticaret A.Ş.",
       "mensei": "Türkiye (Çorum - İskilip)",
       "barkodlar": ["8698500"],
-      "aclama": "1956 yılına uzanan geçmişiyle Çorum İskilip tesislerinde ayakkabı ve bot üretimi gerçekleştiren %100 yerli sermayeli Türk ayakkabı markasıdır.",
+      "aciklama": "1956 yılına uzanan geçmişiyle Çorum İskilip tesislerinde ayakkabı ve bot üretimi gerçekleştiren %100 yerli sermayeli Türk ayakkabı markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1932,7 +1932,7 @@
       "cati_sirket": "Penti Giyim Ticaret A.Ş.",
       "mensei": "Türkiye (İstanbul / Çorlu)",
       "barkodlar": ["8694800"],
-      "aclama": "1950 yılında İstanbul'da kurulan ve Tekirdağ Çorlu tesislerinde çorap, ev giyim ve plaj giyim ürünleri üreten Türkiye merkezli markadır.",
+      "aciklama": "1950 yılında İstanbul'da kurulan ve Tekirdağ Çorlu tesislerinde çorap, ev giyim ve plaj giyim ürünleri üreten Türkiye merkezli markadır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -1944,7 +1944,7 @@
       "cati_sirket": "Adidas AG",
       "mensei": "Almanya",
       "barkodlar": ["4066751", "4065426"],
-      "aclama": "Adidas AG, merkezi Herzogenaurach (Almanya) olan çok uluslu spor ayakkabı ve giyim üreticisidir.",
+      "aciklama": "Adidas AG, merkezi Herzogenaurach (Almanya) olan çok uluslu spor ayakkabı ve giyim üreticisidir.",
       "populer": true,
       "alternatif_idler": ["lescon", "flo_kinetix", "greyder"]
     },
@@ -1956,7 +1956,7 @@
       "cati_sirket": "Nike, Inc.",
       "mensei": "ABD",
       "barkodlar": ["0196150", "0888410"],
-      "aclama": "Nike, Inc., merkezi Beaverton (Oregon, ABD) olan çok uluslu spor giyim ve ayakkabı şirketidir.",
+      "aciklama": "Nike, Inc., merkezi Beaverton (Oregon, ABD) olan çok uluslu spor giyim ve ayakkabı şirketidir.",
       "populer": true,
       "alternatif_idler": ["lescon", "flo_kinetix", "lc_waikiki"]
     },
@@ -1968,7 +1968,7 @@
       "cati_sirket": "H & M Hennes & Mauritz AB",
       "mensei": "İsveç",
       "barkodlar": ["7332541"],
-      "aclama": "H&M, merkezi Stockholm (İsveç) olan çok uluslu hazır giyim ve aksesuar perakende şirketidir.",
+      "aciklama": "H&M, merkezi Stockholm (İsveç) olan çok uluslu hazır giyim ve aksesuar perakende şirketidir.",
       "populer": false,
       "alternatif_idler": ["lc_waikiki", "koton", "defacto"]
     },
@@ -1980,7 +1980,7 @@
       "cati_sirket": "Inditex Group",
       "mensei": "İspanya",
       "barkodlar": ["8434568"],
-      "aclama": "Pull&Bear, merkezi İspanya'da bulunan çok uluslu hazır giyim grubu Inditex bünyesindeki genç giyim markasıdır.",
+      "aciklama": "Pull&Bear, merkezi İspanya'da bulunan çok uluslu hazır giyim grubu Inditex bünyesindeki genç giyim markasıdır.",
       "populer": false,
       "alternatif_idler": ["mavi", "koton", "defacto"]
     },
@@ -1992,7 +1992,7 @@
       "cati_sirket": "Inditex Group",
       "mensei": "İspanya",
       "barkodlar": ["8434569"],
-      "aclama": "Bershka, İspanya merkezli çok uluslu Inditex perakende grubuna ait hazır giyim markasıdır.",
+      "aciklama": "Bershka, İspanya merkezli çok uluslu Inditex perakende grubuna ait hazır giyim markasıdır.",
       "populer": false,
       "alternatif_idler": ["koton", "mavi", "penti"]
     },
@@ -2004,7 +2004,7 @@
       "cati_sirket": "Inditex Group",
       "mensei": "İspanya",
       "barkodlar": ["8434570"],
-      "aclama": "Stradivarius, İspanya merkezli çok uluslu Inditex Grubu bünyesindeki kadın hazır giyim markasıdır.",
+      "aciklama": "Stradivarius, İspanya merkezli çok uluslu Inditex Grubu bünyesindeki kadın hazır giyim markasıdır.",
       "populer": false,
       "alternatif_idler": ["koton", "mavi", "penti"]
     },
@@ -2016,7 +2016,7 @@
       "cati_sirket": "Inditex Group",
       "mensei": "İspanya",
       "barkodlar": ["8434571"],
-      "aclama": "Massimo Dutti, İspanya merkezli çok uluslu Inditex Grubu'na ait klasik ve günlük giyim markasıdır.",
+      "aciklama": "Massimo Dutti, İspanya merkezli çok uluslu Inditex Grubu'na ait klasik ve günlük giyim markasıdır.",
       "populer": false,
       "alternatif_idler": ["vakko", "damat_tween", "sarar"]
     },
@@ -2028,7 +2028,7 @@
       "cati_sirket": "Levi Strauss & Co.",
       "mensei": "ABD",
       "barkodlar": ["5414400", "0052177"],
-      "aclama": "Levi's, merkezi San Francisco (ABD) olan çok uluslu hazır giyim ve denim üreticisi Levi Strauss & Co. markasıdır.",
+      "aciklama": "Levi's, merkezi San Francisco (ABD) olan çok uluslu hazır giyim ve denim üreticisi Levi Strauss & Co. markasıdır.",
       "populer": false,
       "alternatif_idler": ["mavi", "koton", "lc_waikiki"]
     },
@@ -2040,7 +2040,7 @@
       "cati_sirket": "PVH Corp.",
       "mensei": "ABD",
       "barkodlar": ["8720115", "8719852"],
-      "aclama": "Tommy Hilfiger, merkezi New York (ABD) olan çok uluslu giyim grubu PVH Corp. bünyesindeki moda markasıdır.",
+      "aciklama": "Tommy Hilfiger, merkezi New York (ABD) olan çok uluslu giyim grubu PVH Corp. bünyesindeki moda markasıdır.",
       "populer": false,
       "alternatif_idler": ["damat_tween", "kigili", "mavi"]
     },
@@ -2052,7 +2052,7 @@
       "cati_sirket": "PVH Corp.",
       "mensei": "ABD",
       "barkodlar": ["8719853", "8720116"],
-      "aclama": "Calvin Klein, ABD merkezli çok uluslu PVH Corp. şirketine ait küresel hazır giyim, iç giyim ve aksesuar markasıdır.",
+      "aciklama": "Calvin Klein, ABD merkezli çok uluslu PVH Corp. şirketine ait küresel hazır giyim, iç giyim ve aksesuar markasıdır.",
       "populer": false,
       "alternatif_idler": ["damat_tween", "vakko", "mavi"]
     },
@@ -2064,7 +2064,7 @@
       "cati_sirket": "MF Brands Group (Lacoste S.A.)",
       "mensei": "Fransa / İsviçre",
       "barkodlar": ["3616350"],
-      "aclama": "Lacoste, Fransa kökenli olup İsviçre merkezli MF Brands Group bünyesinde yönetilen çok uluslu giyim ve ayakkabı markasıdır.",
+      "aciklama": "Lacoste, Fransa kökenli olup İsviçre merkezli MF Brands Group bünyesinde yönetilen çok uluslu giyim ve ayakkabı markasıdır.",
       "populer": false,
       "alternatif_idler": ["kigili", "sarar", "damat_tween"]
     },
@@ -2076,7 +2076,7 @@
       "cati_sirket": "Pensan Kalem ve Kağıt Sanayi A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["86907750", "8690775"],
-      "aclama": "Türkiye'nin köklü yazı gereçleri üreticilerinden Pensan A.Ş. bünyesinde üretilen yerli kurşun kalem ve boya kalemi markasıdır.",
+      "aciklama": "Türkiye'nin köklü yazı gereçleri üreticilerinden Pensan A.Ş. bünyesinde üretilen yerli kurşun kalem ve boya kalemi markasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -2088,7 +2088,7 @@
       "cati_sirket": "Pensan Kalem ve Kağıt Sanayi A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["86907751", "8690775"],
-      "aclama": "1967 yılında İstanbul'da kurulan, tükenmez, jel ve versatil kalem üretimi gerçekleştiren %100 yerli sermayeli Türk kırtasiye kuruluşudur.",
+      "aciklama": "1967 yılında İstanbul'da kurulan, tükenmez, jel ve versatil kalem üretimi gerçekleştiren %100 yerli sermayeli Türk kırtasiye kuruluşudur.",
       "populer": true,
       "alternatif_idler": []
     },
@@ -2100,7 +2100,7 @@
       "cati_sirket": "Scrikss Maden ve Kırtasiye Sanayi A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690780", "8690780010018"],
-      "aclama": "1964 yılından bu yana Türkiye merkezli olarak dolma kalem, mekanik kurşun kalem ve ofis yazı gereçleri üreten yerli kuruluştur.",
+      "aciklama": "1964 yılından bu yana Türkiye merkezli olarak dolma kalem, mekanik kurşun kalem ve ofis yazı gereçleri üreten yerli kuruluştur.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -2112,7 +2112,7 @@
       "cati_sirket": "Keskin Color Kartpostalcılık A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690740", "8690740010012"],
-      "aclama": "1960 yılında kurulan ve İstanbul'daki tesislerinde okul defteri, bloknot ve kırtasiye ürünleri üreten yerli sermayeli Türk firmasıdır.",
+      "aciklama": "1960 yılında kurulan ve İstanbul'daki tesislerinde okul defteri, bloknot ve kırtasiye ürünleri üreten yerli sermayeli Türk firmasıdır.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -2124,7 +2124,7 @@
       "cati_sirket": "Gıpta Ofis Kırtasiye ve Promosyon Ürünleri İmalat Sanayi A.Ş.",
       "mensei": "Türkiye (Ankara)",
       "barkodlar": ["8697415", "8697415010016"],
-      "aclama": "Merkezi Ankara'da bulunan, Borsa İstanbul'da halka açık olan yerli defter, ajanda, ofis ve okul kırtasiyesi üreticisidir.",
+      "aciklama": "Merkezi Ankara'da bulunan, Borsa İstanbul'da halka açık olan yerli defter, ajanda, ofis ve okul kırtasiyesi üreticisidir.",
       "populer": false,
       "alternatif_idler": []
     },
@@ -2136,7 +2136,7 @@
       "cati_sirket": "A.W. Faber-Castell AG",
       "mensei": "Almanya",
       "barkodlar": ["4005401"],
-      "aclama": "Faber-Castell, merkezi Stein (Almanya) olan çok uluslu kırtasiye ve yazı gereçleri üreticisidir.",
+      "aciklama": "Faber-Castell, merkezi Stein (Almanya) olan çok uluslu kırtasiye ve yazı gereçleri üreticisidir.",
       "populer": false,
       "alternatif_idler": ["adel", "fatih_kalem", "pensan"]
     },
@@ -2148,7 +2148,7 @@
       "cati_sirket": "Staedtler Mars GmbH & Co. KG",
       "mensei": "Almanya",
       "barkodlar": ["4007817"],
-      "aclama": "Staedtler, merkezi Nürnberg (Almanya) olan çok uluslu teknik çizim ve yazı gereçleri üreticisidir.",
+      "aciklama": "Staedtler, merkezi Nürnberg (Almanya) olan çok uluslu teknik çizim ve yazı gereçleri üreticisidir.",
       "populer": false,
       "alternatif_idler": ["adel", "fatih_kalem", "scrikss"]
     },
@@ -2160,7 +2160,7 @@
       "cati_sirket": "Newell Brands Inc.",
       "mensei": "ABD / Almanya",
       "barkodlar": ["35011700", "3501170"],
-      "aclama": "Rotring, Almanya'da kurulmuş olup küresel marka hakları ABD merkezli çok uluslu Newell Brands şirketine ait olan teknik çizim kalemi markasıdır.",
+      "aciklama": "Rotring, Almanya'da kurulmuş olup küresel marka hakları ABD merkezli çok uluslu Newell Brands şirketine ait olan teknik çizim kalemi markasıdır.",
       "populer": false,
       "alternatif_idler": ["scrikss", "pensan", "adel"]
     },
@@ -2172,7 +2172,7 @@
       "cati_sirket": "Newell Brands Inc.",
       "mensei": "ABD / Fransa",
       "barkodlar": ["35011701", "3501170"],
-      "aclama": "Parker, küresel marka hakları ABD merkezli çok uluslu Newell Brands Inc. bünyesinde yer alan dolma kalem ve lüks yazı gereçleri markasıdır.",
+      "aciklama": "Parker, küresel marka hakları ABD merkezli çok uluslu Newell Brands Inc. bünyesinde yer alan dolma kalem ve lüks yazı gereçleri markasıdır.",
       "populer": false,
       "alternatif_idler": ["scrikss", "pensan", "adel"]
     },
@@ -2184,7 +2184,7 @@
       "cati_sirket": "Newell Brands Inc.",
       "mensei": "ABD",
       "barkodlar": ["071641", "0071641"],
-      "aclama": "Sharpie, merkezi Atlanta (ABD) olan çok uluslu Newell Brands Inc. şirketine ait kalıcı markör kalem markasıdır.",
+      "aciklama": "Sharpie, merkezi Atlanta (ABD) olan çok uluslu Newell Brands Inc. şirketine ait kalıcı markör kalem markasıdır.",
       "populer": false,
       "alternatif_idler": ["pensan", "adel", "fatih_kalem"]
     },
