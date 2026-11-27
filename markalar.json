@@ -2100,7 +2100,7 @@
       "cati_sirket": "Scrikss Maden ve Kırtasiye Sanayi A.Ş.",
       "mensei": "Türkiye (İstanbul)",
       "barkodlar": ["8690780", "8690780010018"],
-      "aclama": "1964 yılından bu yana Türkiye merkezli olarak dolma kalem, mekanik kurşun kalem ve ofis yazı gereçleri üreten yerli kuruluştur.",
+      "aciklama": "1964 yılından bu yana Türkiye merkezli olarak dolma kalem, mekanik kurşun kalem ve ofis yazı gereçleri üreten yerli kuruluştur.",
       "populer": false,
       "alternatif_idler": []
     },
